@@ -18,3 +18,7 @@ func NaiveJoin(words []string) string {
 	}
 	return result
 }
+
+func EfficientJoin(words []string) string {
+	return strings.Join(words, " ")
+}
