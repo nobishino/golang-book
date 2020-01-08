@@ -1,3 +1,6 @@
+/*
+プログラミング言語Goの練習問題の答えを書いていくパッケージ
+*/
 package solutions
 
 import (
