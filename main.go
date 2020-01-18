@@ -6,5 +6,5 @@ func main() {
 	// solutions.Dup2()
 	// solutions.Dup_Godoku()
 	// solutions.Problem01_06()
-	solutions.Problem01_08()
+	solutions.Problem01_09()
 }
