@@ -1,0 +1,1407 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<title>TLnet - StarCraft Esports News and Community</title>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1, width=device-width">
+<meta name="csrf-token" content="7VMT66fB">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="TLnet is a news and community focused on StarCraft 2 and Brood War, with an emphasis on professional gaming (esports).">
+<link rel="alternate" type="application/rss+xml" href="/rss/news.xml" title="TLnet Featured News Articles">
+<link rel="stylesheet" type="text/css" href="/mirror/v44/tla4.min.css">
+<link rel="stylesheet" type="text/css" href="/mirror/v1/frontpage6.min.css">
+<style>@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;src:local('Open Sans SemiBold'),local('OpenSans-SemiBold'),url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UNirkOUuht.eot?#iefix) format('embedded-opentype'),url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UNirkOUuhp.woff2) format('woff2'),url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UNirkOUuhv.woff) format('woff'),url(https://fonts.gstatic.com/l/font?kit=mem5YaGs126MiZpBA-UNirkOUuhu&skey=a162967ffaa5aa08&v=v16#OpenSans) format('svg'),url(https://fonts.gstatic.com/s/opensans/v16/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype')}</style><link rel="preconnect" href="https://fonts.gstatic.com/"><link rel="icon" href="/favicon.png">
+<!--[if lt IE 9]>
+	<script src="/mirror/html5shiv-printshiv.js"></script>
+<![endif]-->
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function() {googletag.pubads().disableInitialLoad();});
+</script>
+<script async src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script async src='https://storage.googleapis.com/didna_hb/teamliquid/teamliquid/didna_config.js'></script>
+<script>
+var didna = window.didna||{};
+didna.cmd = didna.cmd||[];
+didna.cmd.push(function(){
+	var mapping_lead = googletag.sizeMapping()
+	.addSize([728,0],[[728,90],[468,60]])
+	.addSize([468,0],[[468,60],[320,50],[320,100]])
+	.addSize([320,0],[[320,50],[300,50],[320,100]])
+	.addSize([300,0],[[300,50],[300,100]])
+	.build();
+	var mapping_article = googletag.sizeMapping()
+	.addSize([750,0],[[750,300]])
+	.build();
+	var mapping_sidebar_top = googletag.sizeMapping()
+	.addSize([1316,0],[[300,250],[240,400],[250,360]])
+	.addSize([1024,0],[[120,240],[125,125]])
+	.build();
+	var mapping_sidebar_bottom = googletag.sizeMapping()
+	.addSize([1316,0],[[160,600],[300,600],[300,1050]])
+	.addSize([1024,0],[[120,600],[125,125],[160,600]])
+	.build();
+	var mapping_homepage = googletag.sizeMapping()
+	.addSize([728,0],[[160,600],[300,600],[336,280],[300,1050]])
+	.addSize([336,0],[[336,280],[300,250]])
+	.addSize([300,0],[[300,250]])
+	.build();
+
+	var adUnits = [{
+		adUnitPath: '/23616703/TL',
+		id: '728x90_ATF',
+		size: [[728,90]],
+		sizeMap: mapping_lead,
+		targeting: {'auid': '728x90_ATF'}
+	},{
+		adUnitPath: '/23616703/TL',
+		id: '728x90_BTF',
+		size: [[728,90]],
+		sizeMap: mapping_lead,
+		targeting: {'auid': '728x90_BTF'}
+	},{
+		adUnitPath: '/23616703/TL',
+		id: '300x250_ATF',
+		size: [[300,250]],
+		sizeMap: mapping_sidebar_top,
+		targeting: {'auid': '300x250_ATF'}
+	},{
+		adUnitPath: '/23616703/TL',
+		id: '300x250_CENTER',
+		size: [[300,250]],
+		sizeMap: mapping_homepage,
+		targeting: {'auid': '300x250_CENTER'}
+	},{
+		adUnitPath: '/23616703/TL',
+		id: '300x250_BTF',
+		size: [[300,250]],
+		sizeMap: mapping_sidebar_bottom,
+		targeting: {'auid': '300x250_BTF'}
+	},{
+		adUnitPath: '/23616703/TL',
+		id: 'After_Article',
+		size: [[750,300]],
+		sizeMap: mapping_article,
+		targeting: {'auid': 'After_Article'}
+	}];
+	googletag.pubads().setCentering(true);
+	googletag.pubads().setTargeting ('url', location.pathname);
+	didna.createAdUnits(adUnits);
+});
+</script></head>
+<body  onload="resize_images2()">
+<div id="navwrapper">
+<div id="siteheader">
+	<div id="userpanel">
+		<ul>
+			<li><a id="top-login-button" href="/mytlnet/login">Log In</a><a id="top-login-button-mobile" href="/mytlnet/login">Log In</a></li>
+			<li class="guestlink"><a href="/mytlnet/register">Register</a></li>
+		</ul>
+		<div id="userpanelend"></div>
+	</div>
+	<div id="up_dropdown" style="">
+		<div id="up_dropdown_content" class="pinned">
+		</div>
+	</div>
+	<div class="topmenubar">
+		<div class="navmenu">
+			Liquid`
+			<span class="sn_dropdown"></span>
+		</div>
+		<div class="top_menu">
+			<span><a href="https://www.teamliquid.com/">TeamLiquid</a></span>
+			<span><a href="https://liquipedia.net/">Liquipedia</a></span>
+			<span><a href="https://www.liquiddota.com/">LiquidDota</a></span>
+			<span><a href="https://www.liquidlegends.net/">LiquidLegends</a></span>
+		</div>
+		<div class="social">
+			<!--<a href="https://www.facebook.com/teamliquidnet" class="topmenuicons" id="tb-facebook"></a>-->
+			<a href="https://twitter.com/tlnet" class="topmenuicons" id="tb-twitter"></a>
+			<a href="https://www.youtube.com/teamliquidnet" class="topmenuicons" id="tb-youtube"></a>
+		</div>
+	</div>
+
+	<div id="tlverytopbanner">
+		<a href="/" id="homelink"></a>
+		<div id="stats">
+			<div id="timebar"><span>EST</span> 02:51<br> <!--<span>•</span>--> <span>CET</span> 08:51<br> <!--<span>•</span>--> <span>KST</span> 16:51</div>			<!--Active: 859--><!--<span><a id="topstreamlink" href="/video/streams/">Stream viewers: </a></span>-->
+		</div>
+	</div>
+	<div id="countdown" style="display:none"></div>
+	<div class="navbar" id="navwrap">
+		<div class="navmenu"></div>
+		<ul class="smallnav">
+			<li><a href="/">Home</a></li>
+			<li class="tl-dropdown" id="forums-dropdown" data-dropdown="dropdown-menu-forums"><a href="/forum/">Forum <span class="sn_dropdown"></span></a></li>
+			<li><a href="/calendar/">Calendar</a></li>
+			<li><a href="/video/streams/">Streams</a></li>
+			<li class="tl-dropdown" id="lp-dropdown" data-dropdown="dropdown-menu-liquipedia"><a href="https://liquipedia.net/">Liquipedia <span class="sn_dropdown"></span></a></li>
+			<li class="tl-dropdown" id="features-dropdown" data-dropdown="dropdown-menu-features"><a href="/features/">Features <span class="sn_dropdown"></span></a></li>
+			<li class="store"><a href="https://store.teamliquid.com/">Store</a></li>
+			<li class="wcs-portal"><a href="https://liquipedia.net/starcraft2/Portal:WCS"><img alt="" src="/staff/R1CH/WCSPortalLogo.png">WCS</a></li>
+			<!--<li class="heroes-portal"><a href="/heroes/"><img alt="" src="/images/layout/heroes-icon-small.png">Heroes of the Storm</a></li>-->
+			<li><a href="/plus/">TL+</a></li>
+		</ul>
+		<ul id="filters">
+			<li class="search">
+				<form id="searchbox" action="/forum/search.php" method="get">
+				<div>
+					<a class="tb-sprite" onclick="$('#searchbox').submit(); return false" href="/forum/search.php" title="Search"></a>
+				<input type="text" maxlength="32" size="23" name="q" id="searchicon">
+				</div>
+				</form>
+			</li>
+		</ul>
+		<div class="clear"></div>
+	</div>
+
+	<div class="navbar submenu" id="dropdown-menu-liquipedia" data-top-menu="lp-dropdown" style="display:none;position:absolute;left:141px;height:24px;z-index:10;background:#040f21;margin-top:-1px">
+	<ul class="smallnav subnav">
+		<li><a href="https://liquipedia.net/starcraft2/">StarCraft 2</a></li>
+<!--		<li><a href="https://liquipedia.net/dota2/">Dota 2</a></li>-->
+		<li><a href="https://liquipedia.net/starcraft/">Brood War</a></li>
+		<li><a href="https://liquipedia.net/smash/">Smash</a></li>
+		<li><a href="https://liquipedia.net/heroes/">Heroes</a></li>
+		<li><a href="https://liquipedia.net/counterstrike/">Counter-Strike</a></li>
+		<li><a href="https://liquipedia.net/overwatch/">Overwatch</a></li>
+	</ul>
+	<div class="clear"></div>
+	</div>
+
+	<div class="navbar submenu" id="dropdown-menu-features" data-top-menu="features-dropdown" style="display:none">
+		<ul class="smallnav subnav">
+			<li><a href="/liquibet/">Liquibet</a></li>
+			<li><a href="/fantasy/">Fantasy StarCraft</a></li>
+			<li><a href="/tlpd/">TLPD</a></li>
+		</ul>
+		<div class="clear"></div>
+	</div>
+
+	<div class="navbar submenu" id="dropdown-menu-forums" data-top-menu="forums-dropdown" style="display:none;position:absolute;left:10px;height:24px;z-index:10;background:#040f21;margin-top:-1px">
+	<ul class="smallnav subnav">
+		<li><a href="/forum/?filter=starcraft2">StarCraft 2</a></li>
+<!--		<li><a href="/forum/?filter=dota2">Dota 2</a></li>-->
+		<li><a href="/forum/?filter=broodwar">Brood War</a></li>
+<!--		<li><a href="/forum/?filter=lol">League of Legends</a></li>-->
+		<li><a href="/blogs/">Blogs</a></li>
+	</ul>
+	<div class="clear"></div>
+	</div>
+</div>
+<div id="main-container">
+<div id="lsb-toggle">Forum Sidebar</div><div id="rsb-toggle">Events/Features</div><div id="main-left-sidebar"><div class="sidebar_block"><a class="block_header" href="/news/">News</a><div class="sbcontents block-news_left_mid"><div class="sbtitle"><a href="/news/">Featured News</a></div><a href="/forum/brood-war/554844-bsl8-ro16-preview-pt-1-turbulent-waters" title="[BSL8] Ro16 Preview, Pt 1: Turbulent Waters">[BSL8] Ro16 Preview, Pt 1: Turbulent Waters</a><a href="/forum/brood-war/554844-bsl8-ro16-preview-pt-1-turbulent-waters?page=last" class="comments">12</a><a href="/forum/starcraft-2/554755-cool-things-from-2019-maru-wins-code-s-4" title="Cool Things From 2019: Maru wins Code S #4">Cool Things From 2019: Maru wins Code S #4</a><a href="/forum/starcraft-2/554755-cool-things-from-2019-maru-wins-code-s-4?page=last" class="comments">25</a><a href="/forum/heroes/554741-divs-eu-season-2-power-rank">[DivS] EU Season 2: Power Rank</a><a href="/forum/heroes/554741-divs-eu-season-2-power-rank?page=last" class="comments">2</a><a href="/forum/starcraft-2/554492-announcing-tlnet-map-contest-14">Announcing TLnet Map Contest 14</a><a href="/forum/starcraft-2/554492-announcing-tlnet-map-contest-14?page=last" class="comments">62</a><a href="/forum/starcraft-2/554505-esl-pro-tour-prize-pools-and-points-explained" title="ESL Pro Tour: Prize Pools &amp; Points Explained">ESL Pro Tour: Prize Pools &amp; Points Explained</a><a href="/forum/starcraft-2/554505-esl-pro-tour-prize-pools-and-points-explained?page=last" class="comments">40</a><div class="sbtitle"><a href="/news/community">Community News</a></div><a href="/forum/starcraft-2/554846-rogue-parting-qualify-for-iem-katowice-kr-qualifier-2" title="Rogue, PartinG qualify for IEM Katowice (KR qualifier #2)">Rogue, PartinG qualify for IEM Katowice (KR qualifier #2)</a><a href="/forum/starcraft-2/554846-rogue-parting-qualify-for-iem-katowice-kr-qualifier-2?page=last" class="comments">11</a><a href="/forum/starcraft-2/554811-esl-open-cup-week-1-solar-heromarine-scarlett-win" title="ESL Open Cup Week #1: Solar, HeroMarine, Scarlett win">ESL Open Cup Week #1: Solar, HeroMarine, Scarlett win</a><a href="/forum/starcraft-2/554811-esl-open-cup-week-1-solar-heromarine-scarlett-win?page=last" class="comments">19</a><a href="/forum/starcraft-2/554756-serral-elazer-cure-qualify-for-iem-katowice-eu-qualifier" title="Serral, Elazer, Cure qualify for IEM Katowice (EU qualifier)">Serral, Elazer, Cure qualify for IEM Katowice (EU qualifier)</a><a href="/forum/starcraft-2/554756-serral-elazer-cure-qualify-for-iem-katowice-eu-qualifier?page=last" class="comments">48</a><a href="/forum/bw-tournaments/554690-theesportsnight-ex-skt-vs-ex-kt-showmatch" title="TheEsportsNight - Ex-SKT vs Ex-KT Showmatch">TheEsportsNight - Ex-SKT vs Ex-KT Showmatch</a><a href="/forum/bw-tournaments/554690-theesportsnight-ex-skt-vs-ex-kt-showmatch?page=last" class="comments">118</a><a href="/forum/bw-tournaments/554688-bsl8-proleague-ro16-group-stage">[BSL8] Proleague: Ro16 Group Stage</a><a href="/forum/bw-tournaments/554688-bsl8-proleague-ro16-group-stage?page=last" class="comments">6</a></div></div><div class="sidebar_block"><a class="block_header" href="/forum/?filter=starcraft2">StarCraft 2</a><div class="sbcontents block-starcraft2"><div class="sbtitle"><a href="/forum/starcraft-2/">General</a></div><div class="subheading19"><div class="sb-blck" data-fid="19"><a href="/forum/starcraft-2/554848-4v4-clan-matchfix-isimba">4v4 clan matchfix isImba</a>
+<a href="/forum/starcraft-2/554846-rogue-parting-qualify-for-iem-katowice-kr-qualifier-2" title="Rogue, PartinG qualify for IEM Katowice (KR qualifier #2)">Rogue, PartinG qualify for IEM Katowice (KR qualifier #2)</a>
+<a href="/forum/starcraft-2/553531-mkers-payment-withhold-dispute">Mkers: Payment Withhold Dispute</a>
+<a href="/forum/starcraft-2/548973-thank-you-blizzard-community-kim-phan" title="&quot;Thank you, Blizzard Community&quot; - Kim Phan">&quot;Thank you, Blizzard Community&quot; - Kim Phan</a>
+<a href="/forum/starcraft-2/554492-announcing-tlnet-map-contest-14">Announcing TLnet Map Contest 14</a>
+</div></div><div class="sbtitle"><a href="/forum/sc2-tournaments/">Tourneys</a></div><div class="subheading36"><div class="sb-blck" data-fid="36"><a href="/forum/sc2-tournaments/554883-bj-destruction-match-2020-season-1-playoffs" title="BJ Destruction Match 2020 - Season 1 Playoffs">BJ Destruction Match 2020 - Season 1 Playoffs</a>
+<a href="/forum/sc2-tournaments/552347-iem-xiv-katowice-qualifiers">[IEM XIV] Katowice - Qualifiers</a>
+<a href="/forum/sc2-tournaments/553824-chinese-team-championship-2020-pre-season-event" title="Chinese Team Championship 2020 Pre-Season Event">Chinese Team Championship 2020 Pre-Season Event</a>
+<a href="/forum/sc2-tournaments/554743-team-gbl-presents-new-year-mayhem-1200-prize" title="Team GBL Presents: New Year Mayhem! (1200+ prize)">Team GBL Presents: New Year Mayhem! (1200+ prize)</a>
+<a href="/forum/sc2-tournaments/554764-alpha-pro-series-rodzyn-p-vs-brat_ok-t" title="[Alpha Pro Series] Rodzyn (P) vs Brat_OK (T)">[Alpha Pro Series] Rodzyn (P) vs Brat_OK (T)</a>
+</div></div><div class="sbtitle"><a href="/forum/sc2-strategy/">Strategy</a></div><div class="subheading34"><div class="sb-blck" data-fid="34"><a href="/forum/sc2-strategy/499584-the-lotv-protoss-help-me-thread">The LotV Protoss Help Me Thread</a>
+<a href="/forum/sc2-strategy/553883-advice-on-tvp-replay-included">Advice on TvP (replay included)</a>
+<a href="/forum/sc2-strategy/549893-yaks-lotv-yet-another-hotkey-setup-zerg" title="[G] YAKS LOTV: Yet Another hotKey Setup - zerg">[G] YAKS LOTV: Yet Another hotKey Setup - zerg</a>
+<a href="/forum/sc2-strategy/187808-simple-questions-simple-answers">Simple Questions Simple Answers</a>
+</div></div><div class="sbtitle"><a href="/forum/sc2-maps/">Custom Maps</a></div><div class="subheading44"><div class="sb-blck" data-fid="44"><a href="/forum/sc2-maps/554751-2-hard-rain">[M] (2) Hard Rain</a>
+<a href="/forum/sc2-maps/554440-2-chain-reaction">[M] (2) Chain reaction</a>
+<a href="/forum/sc2-maps/554646-build-order-tester-and-unit-tester">build order tester and unit tester</a>
+<a href="/forum/sc2-maps/553676-4-defrost">[M] (4) Defrost</a>
+</div></div><div class="sbtitle"><a href="/forum/external-content/">External Content</a></div><div class="subheading160"><div class="sb-blck" data-fid="160"><a href="/forum/external-content/554812-just-a-move-interview-the-experts">Just A-Move: Interview the Experts</a>
+<a href="/forum/external-content/554841-sc2-android-tool-to-learn-build-orders" title="SC2 android tool to learn Build Orders">SC2 android tool to learn Build Orders</a>
+<a href="/forum/external-content/554659-mutation-193-by-fire-be-purged">Mutation #193 By Fire Be Purged</a>
+<a href="/forum/external-content/554385-mutation-192-inordinate-response">Mutation #192 Inordinate Response</a>
+</div></div></div></div><div class="sidebar_block"><a class="block_header" href="/forum/?filter=broodwar">Brood War</a><div class="sbcontents block-broodwar"><div class="sbtitle"><a href="/forum/brood-war/">General</a></div><div class="subheading6"><div class="sb-blck" data-fid="6"><a href="/forum/brood-war/428360-bw-general-discussion">BW General Discussion</a>
+<a href="/forum/brood-war/554882-temple-siege-marathon-13-7pm-3-days" title="Temple Siege Marathon #13 (7PM 3-Days)">Temple Siege Marathon #13 (7PM 3-Days)</a>
+<a href="/forum/brood-war/554844-bsl8-ro16-preview-pt-1-turbulent-waters" title="[BSL8] Ro16 Preview, Pt 1: Turbulent Waters">[BSL8] Ro16 Preview, Pt 1: Turbulent Waters</a>
+<a href="/forum/brood-war/504027-flash-stream-thread">Flash Stream Thread</a>
+<a href="/forum/brood-war/500856-byrain-is-streaming-bw-on-afreeca">By.Rain is streaming BW on Afreeca</a>
+</div></div><div class="sbtitle"><a href="/forum/bw-tournaments/">Tourneys</a></div><div class="subheading8"><div class="sb-blck" data-fid="8"><a href="/forum/bw-tournaments/554885-kcm-challenge-race-survival-season-8-week-2" title="KCM Challenge Race Survival Season 8 Week 2">KCM Challenge Race Survival Season 8 Week 2</a>
+<a href="/forum/bw-tournaments/554881-stpl-nas-vs-psi-ef-vs-nw">[STPL] NaS vs pSi / eF vs NW</a>
+<a href="/forum/bw-tournaments/554690-theesportsnight-ex-skt-vs-ex-kt-showmatch" title="TheEsportsNight - Ex-SKT vs Ex-KT Showmatch">TheEsportsNight - Ex-SKT vs Ex-KT Showmatch</a>
+<a href="/forum/bw-tournaments/554843-hazelys-nut-cup-1-january-25-2020-830am-est" title="hazely&#039;s nut cup #1 - January 25, 2020 @ 8:30am EST">hazely&#039;s nut cup #1 - January 25, 2020 @ 8:30am EST</a>
+</div></div><div class="sbtitle"><a href="/forum/bw-strategy/">Strategy</a></div><div class="subheading10"><div class="sb-blck" data-fid="10"><a href="/forum/bw-strategy/220903-simple-questions-simple-answers">Simple Questions, Simple Answers</a>
+<a href="/forum/bw-strategy/554559-savior-guide-how-to-win">SAVIOR guide how to win?</a>
+<a href="/forum/bw-strategy/552487-collection-of-tricks">Collection of tricks?</a>
+<a href="/forum/bw-strategy/553224-cadenzie-muta-micro-tutorial-2019">cadenzie muta micro tutorial 2019</a>
+</div></div></div></div><div class="sidebar_block"><a class="block_header" href="/forum/?filter=other">Other Games</a><div class="sbcontents block-games"><div class="sbtitle"><a href="/forum/heroes/">Heroes of the Storm</a></div><div class="subheading145"><div class="sb-blck" data-fid="145"><a href="/forum/heroes/491978-hots-wp-and-funny-moments">HotS: WP and Funny Moments</a>
+<a href="/forum/heroes/554741-divs-eu-season-2-power-rank">[DivS] EU Season 2: Power Rank</a>
+<a href="/forum/heroes/554314-hots-nexus-contest-recap">[HotS] Nexus Contest Recap</a>
+</div></div><div class="sbtitle"><a href="/forum/games/">General Games</a></div><div class="subheading12"><div class="sb-blck" data-fid="12"><a href="/forum/games/487853-ff7-remake-for-ps4-announced">FF7 remake for PS4 announced</a>
+<a href="/forum/games/392662-cyberpunk-2077">Cyberpunk 2077</a>
+<a href="/forum/games/554752-wolcen-lords-of-mayhem">Wolcen: Lords of Mayhem</a>
+<a href="/forum/games/417075-the-playstation-4">The PlayStation 4</a>
+<a href="/forum/games/250781-path-of-exile">Path of Exile</a>
+</div></div><div class="sbtitle"><a href="/forum/mafia/">TL Mafia</a></div><div class="subheading31"><div class="sb-blck" data-fid="31"><a href="/forum/mafia/446923-tl-mafia-plays-diplomacy">TL Mafia Plays: Diplomacy</a>
+<a href="/forum/mafia/438626-tl-mafia-community-thread">TL Mafia Community Thread</a>
+</div></div><div class="sbtitle"><a href="/forum/hearthstone/">Hearthstone</a></div><div class="subheading116"><div class="sb-blck" data-fid="116"><a href="/forum/hearthstone/544998-liquidhearthcom-closing-on-april-10th" title="LiquidHearth.com closing on April 10th">LiquidHearth.com closing on April 10th</a>
+</div></div><div class="sbtitle"><a href="https://www.liquidlegends.net/forum/lol-general/">LoL General</a></div><div class="sbtitle"><a href="https://www.liquidlegends.net/forum/lol-tournaments/">LoL Tournaments</a></div><div class="sbtitle"><a href="https://www.liquidlegends.net/forum/lol-strategy/">LoL Strategy</a></div></div></div><div class="sidebar_block"><a class="block_header" href="/forum/?filter=community">Community</a><div class="sbcontents block-general"><div class="sbtitle"><a href="/forum/general/">General</a></div><div class="subheading1"><div class="sb-blck" data-fid="1"><a href="/forum/general/532255-us-politics-mega-thread">US Politics Mega-thread</a>
+<a href="/forum/general/543016-south-american-politics-thread">South American Politics thread</a>
+<a href="/forum/general/545162-trading-investing-thread">Trading/Investing Thread</a>
+<a href="/forum/general/480705-canadian-politics-mega-thread">Canadian Politics Mega-thread</a>
+<a href="/forum/general/180910-nasa-and-the-private-sector">NASA and the Private Sector</a>
+</div></div><div class="sbtitle"><a href="/forum/fan-clubs/">Fan Clubs</a></div><div class="subheading56"><div class="sb-blck" data-fid="56"><a href="/forum/fan-clubs/448777-serral-fan-club">Serral Fan Club</a>
+<a href="/forum/fan-clubs/175437-the-geoff-egincontrol-robinson-fan-club" title="The Geoff &quot;EGiNcontroL&quot; Robinson Fan Club">The Geoff &quot;EGiNcontroL&quot; Robinson Fan Club</a>
+<a href="/forum/fan-clubs/441480-skt1-classic-fan-club">SKT1 Classic Fan Club!</a>
+</div></div><div class="sbtitle"><a href="/forum/entertainment/">Media &amp; Entertainment</a></div><div class="subheading89"><div class="sb-blck" data-fid="89"><a href="/forum/entertainment/87868-movie-discussion">Movie Discussion!</a>
+<a href="/forum/entertainment/94273-anime-discussion-thread">Anime Discussion Thread</a>
+<a href="/forum/entertainment/98009-korean-music-discussion">Korean Music Discussion</a>
+<a href="/forum/entertainment/553089-star-wars-the-rise-of-skywalker-spoilers-allowed" title="Star Wars: The Rise of Skywalker SPOILERS ALLOWED">Star Wars: The Rise of Skywalker SPOILERS ALLOWED</a>
+<a href="/forum/entertainment/283985-manhwa-tower-of-god">[Manhwa] Tower of God</a>
+</div></div><div class="sbtitle"><a href="/forum/sports/">Sports</a></div><div class="subheading88"><div class="sb-blck" data-fid="88"><a href="/forum/sports/546318-2019-nfl-and-cfb-season">2019 NFL and CFB Season</a>
+<a href="/forum/sports/502796-2018-ufc-mma-discussion-thread">2018 UFC/MMA Discussion Thread</a>
+<a href="/forum/sports/474593-teamliquid-health-and-fitness-initiative-for-2020" title="TeamLiquid Health and Fitness Initiative For 2020">TeamLiquid Health and Fitness Initiative For 2020</a>
+<a href="/forum/sports/549587-2019-2020-football-thread">2019 - 2020 Football Thread</a>
+<a href="/forum/sports/551716-nhl-19-20-hop-off-my-kakko">NHL 19-20: Hop Off my Kakko</a>
+</div></div><div class="sbtitle"><a href="/forum/tech-support/">Tech Support</a></div><div class="subheading46"><div class="sb-blck" data-fid="46"><a href="/forum/tech-support/448049-gaming-chairs">Gaming Chairs</a>
+<a href="/forum/tech-support/280437-portable-game-usb">Portable Game USB</a>
+<a href="/forum/tech-support/233916-simple-questions-simple-answers">Simple Questions Simple Answers</a>
+</div></div><div class="sbtitle"><a href="/forum/tl-community/">TL Community</a></div><div class="subheading37"><div class="sb-blck" data-fid="37"><a href="/forum/tl-community/86011-happy-birthday-r1ch">Happy Birthday R1CH!</a>
+<a href="/forum/tl-community/95875-the-automated-ban-list">The Automated Ban List</a>
+</div></div></div></div><div class="sidebar_block"><a class="block_header" href="/blogs/">Blogs</a><div class="sbcontents block-blogs"><div class="sbtitle"><a href="/blogs/"></a></div><div class="sb-blck" data-fid="18"><div style='line-height: 17px;float: left;clear:both;width:70%;overflow:hidden;white-space:nowrap'><a href='/blogs/554818-br-i-am-the-guy-part-1' title="[BR] I Am The Guy Part 1  By BigFan" >[BR] I Am The Guy Part 1</a></div><div style='line-height: 17px;float: right;width:25%;overflow:hidden;white-space:nowrap;text-align:right'><a title="[BR] I Am The Guy Part 1  By BigFan" style='color:#888;font-size:9px;text-shadow:1px 1px rgba(255,255,255,0.5);text-overflow:clip' href="/blog/BigFan">BigFan</a></div><div style='line-height: 17px;float: left;clear:both;width:70%;overflow:hidden;white-space:nowrap'><a href='/blogs/554815-handsfreesc-faq' title="HandsFreeSC FAQ  By feardragon" >HandsFreeSC FAQ</a></div><div style='line-height: 17px;float: right;width:25%;overflow:hidden;white-space:nowrap;text-align:right'><a title="HandsFreeSC FAQ  By feardragon" style='color:#888;font-size:9px;text-shadow:1px 1px rgba(255,255,255,0.5);text-overflow:clip' href="/blog/castingconcepts">feardragon</a></div><div style='line-height: 17px;float: left;clear:both;width:70%;overflow:hidden;white-space:nowrap'><a href='/blogs/554763-making-content-i-want-to-watch' title="Making Content I want to Watch  By TheRealNanMan" >Making Content I want &hellip;</a></div><div style='line-height: 17px;float: right;width:25%;overflow:hidden;white-space:nowrap;text-align:right'><a title="Making Content I want to Watch  By TheRealNanMan" style='color:#888;font-size:9px;text-shadow:1px 1px rgba(255,255,255,0.5);text-overflow:clip' href="/blog/NanMan">TheRealNanMan</a></div><div style='line-height: 17px;float: left;clear:both;width:70%;overflow:hidden;white-space:nowrap'><a href='/blogs/554754-my-agdq-experience-among-other-things' title="My AGDQ Experience! (Among other things)  By Darkhorse" >My AGDQ Experience! (Among&hellip;</a></div><div style='line-height: 17px;float: right;width:25%;overflow:hidden;white-space:nowrap;text-align:right'><a title="My AGDQ Experience! (Among other things)  By Darkhorse" style='color:#888;font-size:9px;text-shadow:1px 1px rgba(255,255,255,0.5);text-overflow:clip' href="/blog/Darkhoarse">Darkhorse</a></div><div style='line-height: 17px;float: left;clear:both;width:70%;overflow:hidden;white-space:nowrap'><a href='/blogs/554657-the-problem-with-star-trek' title="The problem with Star Trek  By oBlade" >The problem with Star Trek&hellip;</a></div><div style='line-height: 17px;float: right;width:25%;overflow:hidden;white-space:nowrap;text-align:right'><a title="The problem with Star Trek  By oBlade" style='color:#888;font-size:9px;text-shadow:1px 1px rgba(255,255,255,0.5);text-overflow:clip' href="/blog/oBlade">oBlade</a></div><div style='line-height: 17px;float: left;clear:both;width:70%;overflow:hidden;white-space:nowrap'><a href='/blogs/554630-ajax-and-hector' title="Ajax and Hector  By Starlightsun" >Ajax and Hector</a></div><div style='line-height: 17px;float: right;width:25%;overflow:hidden;white-space:nowrap;text-align:right'><a title="Ajax and Hector  By Starlightsun" style='color:#888;font-size:9px;text-shadow:1px 1px rgba(255,255,255,0.5);text-overflow:clip' href="/blog/starlightsun">Starlightsun</a></div><div style='line-height: 17px;float: left;clear:both;width:70%;overflow:hidden;white-space:nowrap'><a href='/blogs/554513-a-six-flags-membership' title="A Six Flags Membership  By micronesia" >A Six Flags Membership&hellip;</a></div><div style='line-height: 17px;float: right;width:25%;overflow:hidden;white-space:nowrap;text-align:right'><a title="A Six Flags Membership  By micronesia" style='color:#888;font-size:9px;text-shadow:1px 1px rgba(255,255,255,0.5);text-overflow:clip' href="/blog/micronesia">micronesia</a></div><div style='line-height: 17px;float: left;clear:both;width:70%;overflow:hidden;white-space:nowrap'><a href='/blogs/554426-8-years' title="8 Years  By docvoc" >8 Years</a></div><div style='line-height: 17px;float: right;width:25%;overflow:hidden;white-space:nowrap;text-align:right'><a title="8 Years  By docvoc" style='color:#888;font-size:9px;text-shadow:1px 1px rgba(255,255,255,0.5);text-overflow:clip' href="/blog/chobox2">docvoc</a></div><div style='clear:both'></div></div></div></div><div class="sidebar_end"></div><div class="sidebar-after"><div style="font-size:10px;text-align:center"><a href="/mytlnet/leftsidebar.php">Customize Sidebar...</a></div><br><a href="/forum/website-feedback/">Website Feedback</a><br><br><a href="/forum/closed-threads/">Closed Threads</a><br><br><br><br>Active: 859 users</div></div><!-- Left Sidebar END --><div id="main-content"><!-- Content Area START --><!-- google_ad_section_start --><div style="height:6px"></div><div style="max-width: 740px; height:90px; overflow: hidden; padding: 0px; margin-left: auto; margin-right: auto; text-align: center; margin-bottom: 10px"><!-- Top Ad --><div id='728x90_ATF'></div></div><div id="fp_wrap">
+	<div id="fp_content">
+		<div id="fp_leftwrap">
+			<!-- MAIN NEWS ITEMS -->
+			<div id="carousel">
+			<div id="news_main">
+			<div class="newsitem -ce-capture" id="newsback">
+				<div id="main_news_0" class="newsitem" style="position:absolute">
+				<div class="news_headline">
+					<h2>2019: Maru Wins His Fourth Code S</h2>
+					<p>The G5L trophy seemed like a legend lost to time, a relic from a bygone age of primitive SC2. Then, Maru won his fourth Code S, and brought us one step closer to seeing that legend realized. <b><a href="https://tl.net/forum/starcraft-2/554755-cool-things-from-2019-maru-wins-code-s-4">Read Retrospective</a></b></p>
+				</div>
+				<a href="/forum/starcraft-2/554755-cool-things-from-2019-maru-wins-code-s-4"><img class="mainimage" src="/staff/Waxangel/GSL/2019/marugslwinfp.jpg" alt=""></a>
+				<div class="tagimages"><img src="/images/frontpage/games/sc2_16.png" alt=""> </div>
+				</div>				<div id="main_news_1" class="hidden newsitem" style="position:absolute">
+				<div class="news_headline">
+					<h2>Announcing TLMC 14</h2>
+					<p>A new year, same old TLnet Map Contest. Well that's not 100% true, we do have some new things in store for you all but there won't be any big sweeping changes. So get your mapmaking hat on, we're going for a ride! <b><a href="https://tl.net/forum/starcraft-2/554492-announcing-tlnet-map-contest-14">Announcement</a></b></p>
+				</div>
+				<a href="/forum/starcraft-2/554492-announcing-tlnet-map-contest-14"><img class="mainimage" src="/staff/Julmust/projects/tlmc14/tlmc14_fp.jpg" alt=""></a>
+				<div class="tagimages"><img src="/images/frontpage/games/sc2_16.png" alt=""> </div>
+				</div>				<div id="main_news_2" class="hidden newsitem" style="position:absolute">
+				<div class="news_headline">
+					<h2>2019: ASUS ROG/Assembly Returned</h2>
+					<p>ASUS ROG/Assembly returned with their first major SC2 event in four years, injecting the scene with its own unique blend of serious business and casual fun. <b><a href="https://tl.net/forum/starcraft-2/554278-cool-things-from-2019-assembly-returns-to-sc2">Read Retrospective</a></b></p>
+				</div>
+				<a href="/forum/starcraft-2/554278-cool-things-from-2019-assembly-returns-to-sc2"><img class="mainimage" src="/staff/Waxangel/WCS2019/RTB/serralrtbfp.jpg" alt=""></a>
+				<div class="tagimages"><img src="/images/frontpage/games/sc2_16.png" alt=""> </div>
+				</div>				<div id="main_news_3" class="hidden newsitem" style="position:absolute">
+				<div class="news_headline">
+					<h2>2019: That Time Classic Was Awesome</h2>
+					<p>Classic's DT-Blink at BlizzCon was one of the most memorable moments of 2019, and it's even better with Classic's own commentary and VOD review. TL.net looks back on this iconic game. <b><a href="https://tl.net/forum/starcraft-2/554168-cool-things-from-2019-classics-shadow-stride">Read Retrospective</a></b></p>
+				</div>
+				<a href="/forum/starcraft-2/554168-cool-things-from-2019-classics-shadow-stride"><img class="mainimage" src="/staff/Waxangel/misc/classicshadowfp.jpg" alt=""></a>
+				<div class="tagimages"><img src="/images/frontpage/games/sc2_16.png" alt=""> </div>
+				</div>				</div>
+				<!-- NEWS BOXES BELOW MAIN NEWS -->
+				<div id="news_feed">
+					<a class="newsitem" href="/forum/starcraft-2/554755-cool-things-from-2019-maru-wins-code-s-4" data-key="0">
+						<img class="subimage" src="/images/news/fa9e9b37758f6016389a62e28da868c2c2c0b44d.jpg" alt="">
+						<div class="subtext highlighted" id="subtext0">2019: Maru&#039;s 4th GSL</div>
+						<div class="tagimages"><img src="/images/frontpage/games/sc2_16.png" alt=""> </div>
+					</a>					<a class="newsitem" href="/forum/starcraft-2/554492-announcing-tlnet-map-contest-14" data-key="1">
+						<img class="subimage" src="/images/news/ebb6fa98dcc2e456def0e7d52ec0346e646c652a.jpg" alt="">
+						<div class="subtext" id="subtext1">TLMC 14</div>
+						<div class="tagimages"><img src="/images/frontpage/games/sc2_16.png" alt=""> </div>
+					</a>					<a class="newsitem" href="/forum/starcraft-2/554278-cool-things-from-2019-assembly-returns-to-sc2" data-key="2">
+						<img class="subimage" src="/images/news/0748b86c579928bd26bd735e0fdd1db8b81a3545.jpg" alt="">
+						<div class="subtext" id="subtext2">2019: Assembly Summer</div>
+						<div class="tagimages"><img src="/images/frontpage/games/sc2_16.png" alt=""> </div>
+					</a>					<a class="newsitem" href="/forum/starcraft-2/554168-cool-things-from-2019-classics-shadow-stride" data-key="3">
+						<img class="subimage" src="/images/news/d99bb121440f217911183a6d1f81cf8dc30e933c.jpg" alt="">
+						<div class="subtext" id="subtext3">2019: En Taro Classic</div>
+						<div class="tagimages"><img src="/images/frontpage/games/sc2_16.png" alt=""> </div>
+					</a>				</div>
+				</div>
+				<div style="clear:both;"></div>
+			</div>
+
+				<!-- COMMUNITY NEWS AND HEADLINES -->
+				<div id="right_news">
+				<div id="news_community">
+				<h2 class="fp_header"><a href="/news/community">Community News</a></h2>
+				<div class="fp_box_content">
+				<ul>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 17 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/sc2_13.png" alt=""> <a href="/forum/starcraft-2/554846-rogue-parting-qualify-for-iem-katowice-kr-qualifier-2">Rogue, PartinG qualify for IEM Katowice (KR qualifier #2)</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 16 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/sc2_13.png" alt=""> <a href="/forum/starcraft-2/554811-esl-open-cup-week-1-solar-heromarine-scarlett-win">ESL Open Cup Week #1: Solar, HeroMarine, Scarlett win</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 15 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/sc2_13.png" alt=""> <a href="/forum/starcraft-2/554756-serral-elazer-cure-qualify-for-iem-katowice-eu-qualifier">Serral, Elazer, Cure qualify for IEM Katowice (EU qualifier)</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 14 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/bw_13.png" alt=""> <a href="/forum/bw-tournaments/554690-theesportsnight-ex-skt-vs-ex-kt-showmatch">TheEsportsNight - Ex-SKT vs Ex-KT Showmatch</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 13 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/bw_13.png" alt=""> <a href="/forum/bw-tournaments/554688-bsl8-proleague-ro16-group-stage">[BSL8] Proleague: Ro16 Group Stage</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 10 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/sc2_13.png" alt=""> <a href="/forum/starcraft-2/554554-stats-ty-solar-qualify-for-iem-katowice-kr-qualifier-1">Stats, TY, Solar qualify for IEM Katowice (KR qualifier #1)</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 08 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/sc2_13.png" alt=""> <a href="/forum/starcraft-2/554479-reynor-maru-zest-qualify-for-iem-katowice-na-server">Reynor, Maru, Zest qualify for IEM Katowice (NA server)</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 06 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/sc2_13.png" alt=""> <a href="/forum/starcraft-2/554384-reynor-leaves-gamersorigin">Reynor leaves GamersOrigin</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 05 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/sc2_13.png" alt=""> <a href="/forum/sc2-tournaments/554372-7000-warditv-2020">$7000 WardiTV 2020</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Jan 04 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/sc2_13.png" alt=""> <a href="/forum/starcraft-2/554346-stats-soo-and-armani-join-afreeca-freecs">Stats, soO and Armani join Afreeca Freecs</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament">
+						<div class="header">
+							<!--<div class="date">Dec 31 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/sc2_13.png" alt=""> <a href="/forum/starcraft-2/554241-soo-leaves-chivo-sc-special-joins">soO leaves Chivo SC, SpeCial joins</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+					<li class="cn_tournament noborder">
+						<div class="header">
+							<!--<div class="date">Dec 31 </div>-->
+							<h4 class="thread_title"><img src="/images/frontpage/games/bw_13.png" alt=""> <a href="/forum/bw-tournaments/554207-bsl8-proleague-ro24-group-stage">[BSL8] Proleague: Ro24 Group Stage</a></h4>
+						</div>
+						<div style="clear:left;"></div>
+					</li>
+				</ul>
+				</div>
+				</div>
+
+				</div>
+
+
+<!--- CONTENT FILTER TOGGLES -->
+<div style="float:left">
+	<div style="float:left">
+		<!--<div class="filterlinks"><b>Show: </b><a href="" data-tag="SC" class="first selected">StarCraft 2</a> <a data-tag="D2" href="" class="">Dota 2</a> <a data-tag="BW" href="" class="selected">Brood War</a></div>-->
+		<div class="filterlinks"><input style="margin:0 0 0 4px" value="1" type="checkbox" onclick="fpSpoilerSwap('7VMT66fB')" id="fp_spoilertoggle"><label for="fp_spoilertoggle"> <b>Hide Spoilers</b></label></div>
+	</div>
+</div>
+<div style="clear:both;height:4px"></div>
+
+			<div id="news_column_left">
+			<!-- STORE PRODUCT -->
+			<!--<div id="news_store">
+				<h2 class="fp_header"><a href="/store/">TL Store</a></h2>
+				<div class="fp_box_content">
+				<div class="store_product"><a href=""><img alt="" src="" width="150" height="150"></a><br><br><a href=""><b></b></a></div>
+				</div>
+			</div>-->
+
+			<!-- FEATURED VIDEO -->
+			<div id="news_video">
+
+				<h2 class="fp_header">Featured Video</h2>
+				<div class="fp_box_content">
+				<div id="featured_video">
+					<img src="//img.youtube.com/vi/VSI6RkxFBLc/mqdefault.jpg" onclick="popVideo('https://www.youtube.com/watch?v=VSI6RkxFBLc')" alt="Featured Video">
+					<div id="video_title"><a href="/forum/viewmessage.php?topic_id=553153">HSC XX thanks TaKe</a></div>
+					<div id="video_author">by TakeTV</div>
+					<div id="video_description">The StarCraft community thanked TakE for 20 amazing HomeStory Cups</div>
+<div id="video_comments"><a href="/forum/starcraft-2/553153-thank-you-dennis">Comments (25)</a></div>
+				</div>
+				</div>
+			</div>
+
+			<!-- SPONSORED THREADS -->
+			<!--<div id="news_sponsored">
+				<div id="news_community_bottom">
+				<h2 class="fp_header"><a href="/forum/index.php?show_part=48">Sponsored Threads</a></h2>
+				<div class="fp_box_content">
+				<ul>
+<li><a href="/forum/viewmessage.php?topic_id=486042">AHGL Grand Finals Season 5</a><br></li><li><a href="/forum/viewmessage.php?topic_id=158890">TL Advertising Features</a><br></li>				</ul>
+				</div>
+			</div>
+			</div>-->
+
+			<!-- FRONTPAGE POLL -->
+			<div id="news_poll">
+
+				<h2 class="fp_header"><a href="/poll/">Poll</a></h2>
+				<div class="fp_box_content" style="padding-top:0">
+				<FORM METHOD="post" ACTION="/poll/index.php" style="margin: 0"><input type="hidden" name="token" value="7VMT66fB"><TABLE cellpadding=0 cellspacing=0 style="text-align: left"><TR><TD width='100%'><TABLE class="fp-poll-container" cellpadding=10 cellspacing=0><TR><TD width="154" style="padding-bottom:0px"><SPAN class="rightmenu">Is region-lock still necessary in 2020?</SPAN></TD></TR><TR><TD width="165"><TABLE  cellpadding=0 cellspacing=0><TR><TD><SPAN class="submessage"><INPUT TYPE=radio id='pollid_3524' NAME=vote VALUE=3524 >
+						<label for='pollid_3524'>Yes</label>
+						</SPAN></TD></TR><TR><TD><SPAN class="submessage"><INPUT TYPE=radio id='pollid_3525' NAME=vote VALUE=3525 >
+						<label for='pollid_3525'>No</label>
+						</SPAN></TD></TR><TR><TD><SPAN class="submessage"><INPUT TYPE=radio id='pollid_3526' NAME=vote VALUE=3526 >
+						<label for='pollid_3526'>Don't know/Ambivalent</label>
+						</SPAN></TD></TR></TABLE></TD></TR><TR><TD width="165"><input type="hidden" name="poll_id" value="659"><INPUT TYPE='submit' VALUE='Vote!'><BR>
+					<A href="/poll/index.php?poll_id=659" class="rightmenu">Comments (25)</A>
+					&nbsp;&nbsp;&nbsp;&nbsp; <a href='/poll/' class='rightmenu'>Older Polls</a>
+					</TD></TR></TABLE></TD></TR></TABLE></FORM>				</div>
+			</div>
+
+
+
+			<!-- NEWS ARCHIVE -->
+			<div id="news_archive" style="display:none">
+
+				<h2 class="fp_header"><a href="/forum/hot.php">Hot Topics</a></h2>
+				<div class="fp_box_content">
+				<ul>
+<li><a href="/forum/heroes/480786-simple-questions-simple-answers">Simple Questions, Simple An&hellip;</a></li><li><a href="/blogs/208081-results-guess-how-much-money">[Results] Guess How Much Mo&hellip;</a></li><li><a href="/blogs/268439-student-answers-greatest-hits">Student Answers Greatest Hi&hellip;</a></li><li><a href="/blogs/276505-to-klazart">To Klazart</a></li><li><a href="/blogs/358096-flowers-for-arkanoid">Flowers for Arkanoid</a></li><li><a href="/blogs/218724-passive-voice">Passive Voice</a></li>			</ul>
+			</div>
+		</div>
+	</div><div id="news_column_mid">
+			<!-- BOTTOM BOX NEWS ARTICLES -->
+			<div id="news_articles">
+				<h2 class="fp_header"><a href="/news/">Featured Articles</a></h2>
+				<div class="fp_box_content">
+<div class="smallbox">
+	<div class="smallbox_image"><a href="/forum/starcraft-2/554463-esl-pro-tour-replaces-wcs-on-a-3-year-deal" style="background-image:url(/images/news/8192f51abe1cf1c98f5db1d91bf44f86d1a26aa9.jpg)"></a></div>
+	<div class="content">
+		<div class="headline"><a href="/forum/starcraft-2/554463-esl-pro-tour-replaces-wcs-on-a-3-year-deal">ESL Pro Tour replaces WCS</a></div>
+		<div class="subheading">ESL and DreamHack have announced a new tournament circuit, replacing WCS as the framework for StarCraft II esports tournaments for the next 3 years. Blizzard will provide $1.8m in funding for the first season.<br><b><a href="https://tl.net/forum/starcraft-2/554463-esl-pro-tour-replaces-wcs-on-a-3-year-deal">Read the news!</a> » <a href="https://tl.net/forum/starcraft-2/554505-esl-pro-tour-prize-pools-and-points-explained">Prize Pool & Points explained</a></b></div>
+	</div>
+	<div class="newstag">StarCraft 2</div>
+</div>
+<div style="clear:both"></div><div class="smallbox">
+	<div class="smallbox_image"><a href="/forum/brood-war/553763-ksl4-finals-recap-invisible-no-more" style="background-image:url(/staff/v1/works/ksl_season4/fp.jpg)"></a></div>
+	<div class="content">
+		<div class="headline"><a href="/forum/brood-war/553763-ksl4-finals-recap-invisible-no-more">[KSL4] Finals Recap - Invisible No More</a></div>
+		<div class="subheading">We recap the well fought Finals of the Korea Starcraft League Season 4 between Rain and Light and the culmination of the career of its winner.<br><b><a href="https://tl.net/forum/brood-war/553763-ksl4-finals-recap-invisible-no-more">Read more</a></b></div>
+	</div>
+	<div class="newstag">Brood War</div>
+</div>
+<div style="clear:both"></div><div class="smallbox">
+	<div class="smallbox_image"><a href="/forum/starcraft-2/553629-foregone-conclusion-finland-wins-nationwars-2019" style="background-image:url(/images/news/b0f66577e127240236a8f389af45d7b107b8ff81.jpg)"></a></div>
+	<div class="content">
+		<div class="headline"><a href="/forum/starcraft-2/553629-foregone-conclusion-finland-wins-nationwars-2019">Finland wins NationWars 2019</a></div>
+		<div class="subheading">Serral led Finland to its first ever NationWars championship, scoring four wins against Korea in the finals. TL's Wax recaps the finals, and offers some parting thoughts the format, what-ifs, and up-and-comers.<br><b><a href="https://tl.net/forum/starcraft-2/553629-foregone-conclusion-finland-wins-nationwars-2019">Recap</a> » <a href="https://liquipedia.net/starcraft2/StarCraft_II:_NationWars_2019">Liquipedia</a></b></div>
+	</div>
+	<div class="newstag">StarCraft 2</div>
+</div>
+<div style="clear:both"></div><div class="smallbox">
+	<div class="smallbox_image"><a href="/forum/starcraft-2/551722-co-op-commander-guide-zeratul" style="background-image:url(/images/news/e9e5b21a08c34ecc3c43b5de8954dbd7c9d8c992.png)"></a></div>
+	<div class="content">
+		<div class="headline"><a href="/forum/starcraft-2/551722-co-op-commander-guide-zeratul">Co-op Commander Guide: Zeratul</a></div>
+		<div class="subheading">Learn to maximize the power of Zeratul and his Xel'Naga enhanced legions with our comprehensive guide, including build-orders, suggested army compositions, masteries, and more!<br><b><a href="https://tl.net/forum/starcraft-2/551722-co-op-commander-guide-zeratul">Zeratul Guide</a></b></div>
+	</div>
+	<div class="newstag noborder">StarCraft 2</div>
+</div>
+<div style="clear:both"></div>			</div>
+			</div>
+			<div style="clear:both"></div>
+			<div id="news_bottom_mid">
+				<div id='300x250_CENTER'></div>
+			</div>
+			</div><div id="news_column_right">
+
+			<!-- SPOTLIGHTED THREADS -->
+			<div id="news_spotlight">
+					<h2 class="fp_header"><a nohref="/news/spotlight">Spotlight</a></h2>
+					<div class="fp_box_content" style="padding-top:1px">
+					<ul>
+						<li class="thread">
+							<h4 class="thread_title"><a href="/blogs/553839-running-cheeseadelphia-11-blog">Running Cheeseadelphia 11 Blog!</a></h4>
+							<p class="forum">Blogs</p>
+							<p class="thread_author">by ploguidice</p>
+							<p class="description">Go behind the scenes of Cheeseadelphia and learn about what goes into holding a live event.</p>
+						</li>
+						<li class="thread">
+							<h4 class="thread_title"><a href="/forum/starcraft-2/552440-blizzcon-2019-interviews-by-feardragon">BlizzCon 2019 Interviews by feardragon</a></h4>
+							<p class="forum">SC2 General</p>
+							<p class="thread_author">by feardragon</p>
+							<p class="description">ZombieGrub, PiG, Smix and others were harassed by #1 NA fan feardragon at BlizzCon.</p>
+						</li>
+						<li class="thread">
+							<h4 class="thread_title"><a href="/forum/starcraft-2/552076-blizzcon-2019-the-mega-preview-players-itws">BlizzCon 2019 - The Mega Preview (+ players itws)</a></h4>
+							<p class="forum">SC2 General</p>
+							<p class="thread_author">by Poopi</p>
+							<p class="description">Going in-depth on match-up and map stats, + an interview with ShoWTimE</p>
+						</li>
+						<li class="thread">
+							<h4 class="thread_title"><a href="/forum/brood-war/551460-larva-looking-back-at-zotac-event">Larva Looking Back At Zotac Event</a></h4>
+							<p class="forum">BW General</p>
+							<p class="thread_author">by jinjin5000</p>
+							<p class="description">Larva doesn't tip-toe around as he talks about what happened at the controversial Zotac showmatch.</p>
+						</li>
+						<li class="thread noborder">
+							<h4 class="thread_title"><a href="/forum/brood-war/551008-flashs-asl8-finals-analysis">FlaSh's ASL8 Finals Analysis</a></h4>
+							<p class="forum">BW General</p>
+							<p class="thread_author">by jinjin5000</p>
+							<p class="description">The Brood War god himself blesses fans with a breakdown of his latest triumph.</p>
+						</li>
+					</ul>
+					</div>
+			</div>
+			</div>
+
+		</div>
+
+
+		<div style="clear:both;"></div>
+		<p class="rssnews"><a href="/news/">All News</a> 
+		<a href="/rss/news.xml"><img width="36" height="14" src="/images/rss.png" alt="RSS" title="TLnet Featured News Feed"></a></p>
+	</div>
+</div>
+<!-- google_ad_section_end --></div>
+								<!-- Content Column End-->
+								<!--Right sidebar start-->
+<div id="main-right-sidebar">
+<div id="sidebar_dimmer" onclick="cancelSettings()"></div>
+<div id="sidebar_options">
+</div><div id="calendar_mdiv">
+	<!--<a href="/calendar/" class="spr2" id="nav_calendar" style="display:block"></a>-->
+	<a class="block_header" href="/calendar/">Live Events</a>
+	<img id="calendar_refresh_icon" onclick="return refreshCalendar()" src="/images/layout/refresh.png" title="Refresh Events" alt="Refresh">
+	<div id="live_events_block" class="calendar_content"><table class="sidemenu"><tr>
+		<td class="sidemenu"><div class="ev-feed">
+	<div class="ev-block ev-live nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41114">AfreecaTV BJ Destructio…</span></div>
+			</div>
+			<span class="ev-timer" title="">05:00</span>
+		</div>
+		<div class="ev-stage">Playoffs Day 1</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+		<div class="ev-foot">
+<a class="ev-btn wikibtn" target="_blank" href="https://liquipedia.net/starcraft2/2020_BJ_Destruction_Match_Season_1" title="View Liquipedia Article"><span class="ev-lp"></span>Liquipedia</a><a class="ev-btn lrbtn" href="/forum/sc2-tournaments/554883-bj-destruction-match-2020-season-1-playoffs" title="Live Report Thread"><span class="ev-lr"></span>Discussion</a>		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-live nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41107">January Series</span></div>
+			</div>
+			<span class="ev-timer" title="">01:00</span>
+		</div>
+		<div class="ev-stage">Open Cup</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+		<div class="ev-foot">
+<a class="ev-btn wikibtn" target="_blank" href="https://liquipedia.net/starcraft2/January_Series/NA/2" title="View Liquipedia Article"><span class="ev-lp"></span>Liquipedia</a><a class="ev-btn lrbtn" href="/forum/sc2-tournaments/554309-january-series-100-cups" title="Live Report Thread"><span class="ev-lr"></span>Discussion</a>		</div>
+	</div>
+</div>
+<div style="text-align:right;padding:2px 6px 8px 0px;font-size:8pt">[ <a href="/calendar/manage">Submit Event</a> ]</div></td></tr></table>	</div>
+</div><div style="margin-top: 2px; margin-bottom: 2px; height: 250px"><div id='300x250_ATF'></div></div><div id="streams_div">
+	<!--<a href="/video/streams/" class="spr2" id="nav_streams" style="display:block"></a>-->
+	<a class="block_header" href="/video/streams/">Live Streams</a>
+	<table class='sidemenu'><!--<tr><td class='sidemenu' style='height: 5px'></td></tr>-->
+		<tr><td align='left' class='sidemenu' style='font-size:8pt;padding-top:5px;padding-bottom:5px'>
+		<img id="streams_refresh_icon" onclick="return refreshStreams()" src="/images/layout/refresh.png" title="Refresh Stream List" alt="Refresh">
+<div id="streams_content"><b>StarCraft 2</b><br><div style="margin-left:12px"><a title="twitch.tv, 580 viewers" class="rightmenu" href="/video/streams/RotterdaM">RotterdaM</a> <img src="/images/race/SC2P.png" height="10" alt=""><span class="viewers">580</span><br>
+<a title="twitch.tv, 410 viewers" class="rightmenu" href="/video/streams/ROOTSuperNova">ROOTSuperNova</a> <img src="/images/race/SC2T.png" height="10" alt=""><span class="viewers">410</span><br>
+</div><b>StarCraft: Brood War</b><br><div style="margin-left:12px"><a title="afreeca, 533 viewers" class="rightmenu" href="/video/streams/Horang2">Horang2</a> <img src="/tlpd/images/Picon.png" height="10" alt=""><span class="viewers">533</span><br>
+<a title="afreeca, 389 viewers" class="rightmenu" href="/video/streams/dpfgc3">Larva</a> <img src="/tlpd/images/Zicon.png" height="10" alt=""><span class="viewers">389</span><br>
+<a title="afreeca, 202 viewers" class="rightmenu" href="/video/streams/rnjsgurwls15">Noble</a> <img src="/tlpd/images/Picon.png" height="10" alt=""><span class="viewers">202</span><br>
+<a title="afreeca, 152 viewers" class="rightmenu" href="/video/streams/kimmyungwun">ZerO</a> <img src="/tlpd/images/Zicon.png" height="10" alt=""><span class="viewers">152</span><br>
+<a title="afreeca, 140 viewers" class="rightmenu" href="/video/streams/onlysibar">Shinee</a> <img src="/tlpd/images/Ticon.png" height="10" alt=""><span class="viewers">140</span><br>
+<a title="afreeca, 117 viewers" class="rightmenu" href="/video/streams/tmsh401">Snow</a> <img src="/tlpd/images/Picon.png" height="10" alt=""><span class="viewers">117</span><br>
+<a title="afreeca, 67 viewers" class="rightmenu" href="/video/streams/rlatjdgus228">Last</a> <img src="/tlpd/images/Ticon.png" height="10" alt=""><span class="viewers">67</span><br>
+<a title="afreeca, 63 viewers" class="rightmenu" href="/video/streams/kkmkhh1234">ggaemo</a> <img src="/tlpd/images/Zicon.png" height="10" alt=""><span class="viewers">63</span><br>
+<a title="afreeca, 49 viewers" class="rightmenu" href="/video/streams/MinChul">Soulkey</a> <img src="/tlpd/images/Zicon.png" height="10" alt=""><span class="viewers">49</span><br>
+<a title="afreeca, 38 viewers" class="rightmenu" href="/video/streams/palko1">Leta</a> <img src="/tlpd/images/Ticon.png" height="10" alt=""><span class="viewers">38</span><br>
+[ <a id="link_more_bw_streams" class="rightmenu" href="/video/streams/" onclick="toggleHidden('more-bw', 'link_more_bw_streams', 'Show more', 'Hide more'); return false">Show more</a> ]<div id="more-bw" style="display: none"><a title="twitch.tv, 35 viewers" class="rightmenu" href="/video/streams/ZerO%28Twitch%29">ZerO(Twitch)</a> <img src="/tlpd/images/Zicon.png" height="10" alt=""><span class="viewers">35</span><br>
+<a title="afreeca, 20 viewers" class="rightmenu" href="/video/streams/ghtjs3833">sSak</a> <img src="/tlpd/images/Ticon.png" height="10" alt=""><span class="viewers">20</span><br>
+<a title="afreeca, 18 viewers" class="rightmenu" href="/video/streams/sharpragu">Sharp</a> <img src="/tlpd/images/Ticon.png" height="10" alt=""><span class="viewers">18</span><br>
+<a title="afreeca, 17 viewers" class="rightmenu" href="/video/streams/sorry">sorry</a> <img src="/tlpd/images/Ticon.png" height="10" alt=""><span class="viewers">17</span><br>
+<a title="afreeca, 13 viewers" class="rightmenu" href="/video/streams/rlekfu6">Hyuk</a> <img src="/tlpd/images/Zicon.png" height="10" alt=""><span class="viewers">13</span><br>
+<a title="afreeca, 13 viewers" class="rightmenu" href="/video/streams/understay">Hyun</a> <img src="/tlpd/images/Zicon.png" height="10" alt=""><span class="viewers">13</span><br>
+<a title="afreeca, 11 viewers" class="rightmenu" href="/video/streams/yoo376">Rush</a> <img src="/tlpd/images/Ticon.png" height="10" alt=""><span class="viewers">11</span><br>
+<a title="afreeca, 7 viewers" class="rightmenu" href="/video/streams/goodzerg">Hm[arnc]</a> <img src="/tlpd/images/Zicon.png" height="10" alt=""><span class="viewers">7</span><br>
+</div></div><b>Counter-Strike: Global Offensive</b><br><div style="margin-left:12px"><a title="twitch.tv, 166 viewers" class="rightmenu" href="/video/streams/shahzam">shahzam</a><span class="viewers">166</span><br>
+</div><b>Super Smash Bros</b><br><div style="margin-left:12px"><a title="twitch.tv, 300 viewers" class="rightmenu" href="/video/streams/AZ_Axe">AZ_Axe</a><span class="viewers">300</span><br>
+</div><b>Other Games</b><br><div style="margin-left:12px"><a title="twitch.tv, 29550 viewers" class="rightmenu" href="/video/streams/summit1g">summit1g</a><span class="viewers">29550</span><br>
+<a title="twitch.tv, 714 viewers" class="rightmenu" href="/video/streams/WinterStarcraft">WinterStarcraft</a><span class="viewers">714</span><br>
+<a title="twitch.tv, 163 viewers" class="rightmenu" href="/video/streams/kaitlyn">kaitlyn</a><span class="viewers">163</span><br>
+<a title="twitch.tv, 149 viewers" class="rightmenu" href="/video/streams/NeuroSwarm">NeuroSwarm</a><span class="viewers">149</span><br>
+<a title="twitch.tv, 99 viewers" class="rightmenu" href="/video/streams/HitmanStarcraft2">HitmanStarcraft2</a><span class="viewers">99</span><br>
+<a title="twitch.tv, 71 viewers" class="rightmenu" href="/video/streams/Chillindude">Chillindude</a><span class="viewers">71</span><br>
+</div><div style='margin-top:5px'><b>Organizations</b><br><div style='margin-left:12px'><b>Counter-Strike: Global Offensive</b><br><div style="margin-left:12px"><a title="twitch.tv, 1747 viewers" class="rightmenu" href="/video/streams/ESLTV%20CS">ESL CS:GO</a><span class="viewers">1747</span><br>
+</div><b>StarCraft 2</b><br><div style="margin-left:12px"><a title="twitch.tv, 198 viewers" class="rightmenu" href="/video/streams/ESL_TV">ESL.tv</a><span class="viewers">198</span><br>
+<a title="twitch.tv, 113 viewers" class="rightmenu" href="/video/streams/OGamingTV%20SC2">OGamingTV SC2</a> <img src="/images/flags2/fr.png" width="12" height="8" alt=""><span class="viewers">113</span><br>
+<a title="twitch.tv, 90 viewers" class="rightmenu" href="/video/streams/SCVODarchives">SC2 Vod Archives</a><span class="viewers">90</span><br>
+</div><b>Counter-Strike: Global Offensive</b><br><div style="margin-left:12px"><a title="twitch.tv, 59 viewers" class="rightmenu" href="/video/streams/dreamhackcs">dreamhackcs</a><span class="viewers">59</span><br>
+</div><b>StarCraft: Brood War</b><br><div style="margin-left:12px"><a title="twitch.tv, 25 viewers" class="rightmenu" href="/video/streams/Classic%20BW%20VODs">Classic BW VODs</a><span class="viewers">25</span><br>
+</div></div><div style="height:5px"> </div>
+[ <a id="link_more_streams" class="rightmenu" href="/video/streams/" onclick="toggleHidden('non-featured', 'link_more_streams', 'Show 5 non-featured', 'Hide non-featured'); return false" title="Show all live streams">Show 5 non-featured</a> ]<br>
+<div id="non-featured" style="display:none;padding-left:0px">
+<b>StarCraft 2</b><br><div style="margin-left:12px">&bull; <a title="twitch.tv, 218 viewers" class="rightmenu" href="/video/streams/MEDOEDLive">MEDOEDLive</a> <img src="/images/flags2/ru.png" width="12" height="8" alt=""> <img src="/images/race/SC2Z.png" height="10" alt=""><span class="viewers">218</span><br>
+&bull; <a title="twitch.tv, 5 viewers" class="rightmenu" href="/video/streams/CammyGreen">CammyGreen</a> <img src="/images/race/SC2P.png" height="10" alt=""><span class="viewers">5</span><br>
+</div><b>StarCraft: Brood War</b><br><div style="margin-left:12px">&bull; <a title="twitch.tv, 9 viewers" class="rightmenu" href="/video/streams/SouL%29Z%28Silver">SouL)Z(Silver</a> <img src="/tlpd/images/Zicon.png" height="10" alt=""><span class="viewers">9</span><br>
+&bull; <a title="twitch.tv, 7 viewers" class="rightmenu" href="/video/streams/sscaitournament">sscaitournament</a><span class="viewers">7</span><br>
+</div><b>Other Games</b><br><div style="margin-left:12px">&bull; <a title="twitch.tv, 1181 viewers" class="rightmenu" href="/video/streams/TSM%20TheOddOne">TSM TheOddOne</a><span class="viewers">1181</span><br>
+</div>
+</div></div></div>		</td></tr>
+	</table>
+</div><a class="block_header" href="/calendar/">Upcoming Events</a>
+<table class='sidemenu'><tr><td align='left' class='sidemenu' style='font-size:8pt'>
+	<div id="upcoming_events_block" class="calendar_content"><!--Upcoming Events Block--><div class="ev-feed">
+	<div class="ev-block ev-upc">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="40987">CasterMuse Starleague</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 10:00 GMT">2h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+				<div><span><span class="ev-player">Rush</span><span class="ev-vs"> vs </span><span class="ev-player">815</span></span><span class="ev-timer" title=""></span></div>
+				<div><span><span class="ev-player">Shine</span><span class="ev-vs"> vs </span><span class="ev-player">PianO</span></span><span class="ev-timer" title=""></span></div>
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41115">Afreeca Challengers Sta…</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 10:00 GMT">2h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="40991">CasterMuse Starleague</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 12:00 GMT">4h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41092">China Team Championship</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 12:00 GMT">4h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+				<div><span><span class="ev-player">Trap</span><span class="ev-vs"> vs </span><span class="ev-player">TIME</span></span><span class="ev-timer" title=""></span></div>
+				<div><span><span class="ev-player">TY</span><span class="ev-vs"> vs </span><span class="ev-player">Has</span></span><span class="ev-timer" title=""></span></div>
+				<div><span><span class="ev-player">Impact</span><span class="ev-vs"> vs </span><span class="ev-player">Bunny</span></span><span class="ev-timer" title=""></span></div>
+				<div><span><span class="ev-player">Dear</span><span class="ev-vs"> vs </span><span class="ev-player">Firefly</span></span><span class="ev-timer" title=""></span></div>
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41106">BWCL</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 14:30 GMT">6h 40m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+				<div><span><span class="ev-player">iRk-</span><span class="ev-vs"> vs </span><span class="ev-player">[NaS]</span></span><span class="ev-timer" title=""></span></div>
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41040">OSC</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 15:00 GMT">7h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41079">Alpha Pro Series</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 16:00 GMT">8h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+				<div><span><span class="ev-player">Rodzyn</span><span class="ev-vs"> vs </span><span class="ev-player">Brat_OK</span></span><span class="ev-timer" title=""></span></div>
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41077">IndyK Event</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 17:00 GMT">9h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41071">Bombastic Starleague</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 17:30 GMT">9h 40m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+				<div><span><span class="ev-player">Jaeyun</span><span class="ev-vs"> vs </span><span class="ev-player">Pro</span></span><span class="ev-timer" title=""></span></div>
+				<div><span><span class="ev-player">TT1</span><span class="ev-vs"> vs </span><span class="ev-player">Dandy</span></span><span class="ev-timer" title=""></span></div>
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41051">Alpha X Junior Champion…</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 18:00 GMT">10h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div id="showmore_link">[ <a id="link_show_more_events" href="#" class="rightmenu" onclick="toggleShowMoreEvents(); return false">Show More</a> ]</div><div id="span_more_events" style="display:none"><div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41089">Have At You</span></div>
+			</div>
+			<span class="ev-timer" title="January 18th, 23:00 GMT">15h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41017">Alpha Sc2 Team League</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 01:00 GMT">17h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41111">The Pylon Show</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 01:40 GMT">17h 50m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41056">ESL Pro Tour</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 05:00 GMT">21h 10m</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41112">China Team Championship</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 11:00 GMT">1d 3h</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+				<div><span><span class="ev-player">Dream</span><span class="ev-vs"> vs </span><span class="ev-player">Solar</span></span><span class="ev-timer" title=""></span></div>
+				<div><span><span class="ev-player">INnoVation</span><span class="ev-vs"> vs </span><span class="ev-player">Cure</span></span><span class="ev-timer" title=""></span></div>
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="40992">CasterMuse Starleague</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 12:00 GMT">1d 4h</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41057">ESL Pro Tour</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 13:00 GMT">1d 5h</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41039">OSC</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 15:00 GMT">1d 7h</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41072">Bombastic Starleague</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 17:30 GMT">1d 9h</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+				<div><span><span class="ev-player">Bonyth</span><span class="ev-vs"> vs </span><span class="ev-player">CaStrO</span></span><span class="ev-timer" title=""></span></div>
+				<div><span><span class="ev-player">Goku</span><span class="ev-vs"> vs </span><span class="ev-player">Hawk</span></span><span class="ev-timer" title=""></span></div>
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41109">BeAsT Cup</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 19:00 GMT">1d 11h</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41058">ESL Pro Tour</span></div>
+			</div>
+			<span class="ev-timer" title="January 19th, 22:00 GMT">1d 14h</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41113">China Team Championship</span></div>
+			</div>
+			<span class="ev-timer" title="January 20th, 11:00 GMT">2 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="40993">CasterMuse Starleague</span></div>
+			</div>
+			<span class="ev-timer" title="January 20th, 12:00 GMT">2 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41020">OlimoLeague</span></div>
+			</div>
+			<span class="ev-timer" title="January 21st, 11:00 GMT">3 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="40994">CasterMuse Starleague</span></div>
+			</div>
+			<span class="ev-timer" title="January 21st, 12:00 GMT">3 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41093">WardiTV 2020</span></div>
+			</div>
+			<span class="ev-timer" title="January 21st, 17:00 GMT">3 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41094">WardiTV 2020</span></div>
+			</div>
+			<span class="ev-timer" title="January 22nd, 11:00 GMT">4 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="40995">CasterMuse Starleague</span></div>
+			</div>
+			<span class="ev-timer" title="January 22nd, 12:00 GMT">4 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/2.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="40996">CasterMuse Starleague</span></div>
+			</div>
+			<span class="ev-timer" title="January 23rd, 12:00 GMT">5 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41095">WardiTV 2020</span></div>
+			</div>
+			<span class="ev-timer" title="January 23rd, 17:00 GMT">5 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41086">Shyrshadi Open</span></div>
+			</div>
+			<span class="ev-timer" title="January 24th, 01:00 GMT">5 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41110">ESChamp</span></div>
+			</div>
+			<span class="ev-timer" title="January 24th, 01:00 GMT">5 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="41096">WardiTV 2020</span></div>
+			</div>
+			<span class="ev-timer" title="January 24th, 11:00 GMT">6 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ev-feed">
+	<div class="ev-block ev-upc nobody">
+		<div class="ev-head">
+			<div>
+			<span class="ev" style="background: url(/images/games/1.png) transparent no-repeat; background-size: contain"></span>
+				<div class="ev-ctrl"><span data-event-id="40918">The NA Apprentice</span></div>
+			</div>
+			<span class="ev-timer" title="January 25th, 00:00 GMT">6 days</span>
+		</div>
+		<div class="ev-body">
+			<div class="ev-match">
+			</div>
+			<div class="ev-stream">
+			</div>
+		</div>
+	</div>
+</div>
+</div>	</div>
+	</td></tr>
+</table><div class="rsb-block">
+	<a class="block_header" target="_blank" href="https://liquipedia.net/">Liquipedia Results</a>	<div class="lp-lgblock">
+		<h2>Completed</h2>
+		<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/2020_AfreecaTV_Challengers_Starleague_Season_1/Qualifier/Daegu">2020 AfreecaTV Challengers Starleague Season 1: Daegu Qualifier</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/1.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft2/GPC_2019/Grand_Finals">GPC 2019 - Grand Finals</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/4.png)"></div><div><a target="_blank" href="https://liquipedia.net/heroes/Heroes_of_the_Storm_League:_REVIVAL/Season_4">HotS League: REVIVAL S4</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/3.png)"></div><div><a target="_blank" href="https://liquipedia.net/counterstrike/Eden_Esports/Champions_Cup">Champions Cup Finals</a></div></div>
+
+	</div>	<div class="lp-lgblock">
+		<h2>Ongoing</h2>
+		<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/Liquipedia_STPL_Season_2">2019 Liquipedia Shinhan Tank Proleague</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/KCM_Challenge/Season_8">KCM Challenge Season 8</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/TDR_Nation_Wars">TDR Nation Wars</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/Bombastic_StarLeague_8">Bombastic StarLeague 8</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/BWCL_Season_49">BWCL Season 49</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/CasterMuse_StarLeague_Season_2">CasterMuse StarLeague Season 2</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/Have_At_You_32">Have At You! #32</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/2020_AfreecaTV_Challengers_Starleague_Season_1">2020 AfreecaTV Challengers Starleague Season 1</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/1.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft2/OSC_Championship_7">OSC Championship Season 7</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/4.png)"></div><div><a target="_blank" href="https://liquipedia.net/heroes/Heroes_Lounge_Division_S/Season_2/North_America">Heroes Lounge Div. S S2 NA</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/4.png)"></div><div><a target="_blank" href="https://liquipedia.net/heroes/Heroes_Lounge_Division_S/Season_2/Europe">Heroes Lounge Div. S S2 EU</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/4.png)"></div><div><a target="_blank" href="https://liquipedia.net/heroes/Agon_Premier_League/Season_1">Agon Premier League: Season 1</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/3.png)"></div><div><a target="_blank" href="https://liquipedia.net/counterstrike/ESEA/Season_33/Premier/Australia">ESEA Season 33 - AU Premier</a></div></div>
+
+	</div>	<div class="lp-lgblock">
+		<h2>Upcoming</h2>
+		<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/RCG2020">RCG2020: Remastered</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/Russian_ProLeague">Russian ProLeague</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/Torch_Up">Torch Up: Brood War AI Tournament</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/Hazelys_Nut_Cup_1">Hazelys Nut Cup 1</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/2.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft/BW_Jeez_weekly_53">BW Jeez Weekly 53</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/1.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft2/ESL_Pro_Tour/2020/21/Masters/Montreal">DH SC2 Master Montreal</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/1.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft2/ESL_Pro_Tour/2020/21/Masters/Valencia">DH SC2 Master Valencia</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/1.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft2/ESL_Pro_Tour/2020/21/Masters/Dallas">DH SC2 Master Dallas</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/1.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft2/World_Electronic_Sports_Games/2019">WESG 2019</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/1.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft2/IEM_Katowice/2020">IEM Katowice 2020</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/1.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft2/World_Electronic_Sports_Games/2019/Americas/Latin_America">WESG 2019 - LatAM Qualifier</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/1.png)"></div><div><a target="_blank" href="https://liquipedia.net/starcraft2/WardiTV_2020">WardiTV 2020</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/4.png)"></div><div><a target="_blank" href="https://liquipedia.net/heroes/Masters_Clash_Series/LAN/2020">Masters Clash Series 2020</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/4.png)"></div><div><a target="_blank" href="https://liquipedia.net/heroes/Celebrity_Clash/Season_1">Celebrity Clash Season 1</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/3.png)"></div><div><a target="_blank" href="https://liquipedia.net/counterstrike/Intel_Extreme_Masters/Season_XIV/World_Championship">IEM XIV - World Championship</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/3.png)"></div><div><a target="_blank" href="https://liquipedia.net/counterstrike/DreamHack/2020/Anaheim">DreamHack Anaheim 2020</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/3.png)"></div><div><a target="_blank" href="https://liquipedia.net/counterstrike/ICE_Challenge/2020">ICE Challenge 2020</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/3.png)"></div><div><a target="_blank" href="https://liquipedia.net/counterstrike/BLAST/Premier/2020/Spring/Regular_Season">BLAST Premier Spring 2020</a></div></div>
+<div><div class="ev league-sprite-small" style="background-size: contain; background-image:url(/images/games/3.png)"></div><div><a target="_blank" href="https://liquipedia.net/counterstrike/DreamHack/2020/Leipzig">DreamHack Leipzig 2020</a></div></div>
+
+	</div></div><a class="block_header" href="/tlpd/">TLPD</a><table class="sidemenu"><tr>
+		<td class="sidemenu" style="padding-top:8px; padding-bottom:8px; padding-left:10px">
+		<form id="frm_tlpd_search" method="get" action="/tlpd_search.php" style="padding:0; margin:0">
+		<input type="text" name="search" placeholder="Search player / league" style="width:141px; margin-bottom:1px">
+		<br>
+		<select name="type" style="width:163px">
+		<option selected="selected" value="hots:all">SC2 (HotS Global)</option>
+		<option value="sc2-international:all">SC2 (WoL International)</option>
+		<option  value="sc2-korean:all">SC2 (WoL Korea)</option>
+		<option  value="international:all">BW (International)</option>
+		<option  value="korean:all">BW (Korea)</option>
+		<option  value="sospa:all">BW (Korean Amateur)</option>
+		</select>
+		<input type="image" alt="Search TLPD" title="Search through the TL Player Database" src="/tlpd/images/side_search.png"
+		style="width:25px; height:22px; vertical-align:top">
+		</form><div class="tlpdrank_left">1. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/951_ByuN">ByuN</a><br>2. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/575_TY">TY</a><br>3. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/4729_Dark">Dark</a><br>4. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/4797_Solar">Solar</a><br>5. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/611_Stats">Stats</a><br></div><div class="tlpdrank_right">6. <img alt="" src="/images/flags2/pl.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/1771_Nerchio">Nerchio</a><br>7. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/1101_sOs">sOs</a><br>8. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/634_soO">soO</a><br>9. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/663_INnoVation">INnoVation</a><br>10. <img alt="" src="/images/flags2/pl.png" height="8"> <a class="nounderline" href="/tlpd/hots/players/6170_Elazer">Elazer</a><br></div><div style="clear:both"> </div><div class="tlpdrank_left">1. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/sospa/players/697_Rain">Rain</a><br>2. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/sospa/players/424_Flash">Flash</a><br>3. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/sospa/players/581_EffOrt">EffOrt</a><br>4. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/sospa/players/664_Last">Last</a><br></div><div class="tlpdrank_right">5. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/sospa/players/125_Bisu">Bisu</a><br>6. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/sospa/players/647_Soulkey">Soulkey</a><br>7. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/sospa/players/1102_Mini">Mini</a><br>8. <img alt="" src="/images/flags2/ks.png" height="8"> <a class="nounderline" href="/tlpd/sospa/players/700_Sharp">Sharp</a><br></div><div style="clear:both"> </div></td></tr></table><div class="sidebar_end"></div>
+<a style="font-size:10px" href="/mytlnet/sidebars.php" onclick="return showSettings()">Sidebar Settings...</a><br>
+<br>
+<div class="ad-container">
+<div id='300x250_BTF'></div>
+</div>
+</div>
+<!--Right sidebar end-->
+					</div><!-- navwrap --></div><!--end-main-container-->
+<footer id="sitefooter">
+						<span style='font-size:8pt'><a href="/advertising/">Advertising</a> | <a href="/privacy/">Privacy Policy</a> | <a href="/tou/">Terms Of Use</a> | <a href="/contactus.php" rel="nofollow">Contact Us</a>
+						<!--<span style='font-size:8pt'><a HREF="/advertising/">Advertising</A> |
+						<a href="/jobs/">Jobs</a> |
+						<a href="/privacy/">Privacy</a> |
+						<a href="/tou/">Terms Of Use</a> |
+						<a href="/contactus.php" rel="nofollow">Contact Us</a>-->
+						<br><br>
+						Original banner artwork: <a href="https://jimwarren.com">Jim Warren</a>						<br>
+						The contents of this webpage are copyright &copy; 2020 TLnet. All Rights Reserved.</span>
+				
+</footer>
+<script async src="/mirror/gettimezone.js"></script>
+<script>
+window.dataLayer = window.dataLayer || [ ];
+function gtag() {
+	dataLayer.push( arguments );
+}
+gtag( 'js', new Date() );
+gtag( 'config', 'UA-576564-1', { 'anonymize_ip': true } );
+gtag( 'config', 'UA-576564-21', { 'anonymize_ip': true } );
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-576564-1"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="/mirror/jquery.min.js">\x3C/script>')</script>
+<script src="/mirror/v20/functions4.min.js"></script>
+<script>
+function popVideo(dest)
+{
+	window.open (dest,"TLFPVideoPopup","toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=yes, width=1280, height=720");
+	return false;
+}
+
+$(document).ready (function() {
+	$('.filterlinks a').click (function(e) {
+		tag_id = $(this).data('tag');
+		state = $(this).hasClass ('selected') ? 0 : 1;
+
+		$.post('/index.php', {action: 'filter', token: '7VMT66fB', tag_id: tag_id, state: state}, function(data) {
+			$('#fp_wrap').html (data.html);
+		});
+
+		e.preventDefault();
+	});
+	fprotator = createFPRotator ();
+
+	fprotator.initialTimeout = 9000;
+	fprotator.nextTimeout = 8000;
+	fprotator.clickTimeout = 12000;
+
+	fprotator.autoRotate = 1;
+
+	fprotator.setup();
+});
+</script></body>
+</html>

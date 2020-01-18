@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>メインページ - StarCraft II: Legacy of the Void 日本語Wiki</title>
+<meta name="generator" content="MediaWiki 1.24.3" />
+<meta name="keywords" content="starcraft2,スタークラフト2,sc2,wiki,日本語,攻略,ビルド,lotv,オーダー,戦略,strategy,初心者,Legacy,Void,Star,Craft,build,strategy" />
+<meta name="description" content="SC2の日本語による戦略・ビルドオーダー解説wiki. StarCraft2: Legacy of the Voidの内容が中心です。" />
+<meta name="twitter:description" content="SC2の日本語による戦略・ビルドオーダー解説wiki. StarCraft2: Legacy of the Voidの内容が中心です。" />
+<meta name="google-site-verification" content="1tvLWRytXw0xXH2VRd11aWp3sUjShH4F4nTL3iQlNtg" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/mediawiki/opensearch_desc.php" title="StarCraft II: Legacy of the Void 日本語Wiki (ja)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.sc2jpwiki.com/mediawiki/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" />
+<link rel="alternate" type="application/atom+xml" title="StarCraft II: Legacy of the Void 日本語WikiのAtomフィード" href="/mediawiki/index.php?title=%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.sc2jpwiki.com/mediawiki/load.php?debug=false&amp;lang=ja&amp;modules=ext.addThis%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://www.sc2jpwiki.com/mediawiki/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: sc2jpwiki:resourceloader:filter:minify-css:7:74dfdb001918c5c502768d5ade15ad4d */</style>
+<script src="http://www.sc2jpwiki.com/mediawiki/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"メインページ","wgTitle":"メインページ","wgCurRevisionId":12206,"wgRevisionId":12206,"wgArticleId":814,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["SC2News","FeaturedArticle"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"メインページ","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgIsMainPage":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":true,"previewDialog":false,"publish":true}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":0,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":5,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":1,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikieditor-preview":1,"wikieditor-publish":1,"language":"ja","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"ja"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: sc2jpwiki:resourceloader:filter:minify-js:7:cfc6592ed0e9b4f64becbe6d8a3726e0 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<meta property="og:description" content="SC2の日本語による戦略・ビルドオーダー解説wiki. StarCraft2: Legacy of the Voidの内容が中心です。" />
+
+<meta property="og:image" content="http://www.sc2jpwiki.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" />
+
+<meta property="og:site_name" content="StarCraft II: Legacy of the Void 日本語Wiki" />
+
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/mediawiki/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-メインページ skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<h1 id="firstHeading" class="firstHeading" lang="ja"><span dir="auto">メインページ</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">提供: StarCraft II: Legacy of the Void 日本語Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動:					<a href="#mw-navigation">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><!-- AddThis Button BEGIN -->
+			<div class="addthis_toolbox addthis_default_style" id="addthistoolbar" style="background:#f6f6f6; border-color:#a7d7f9;">
+			<a href="//www.addthis.com/bookmark.php?v=250&amp;pubid=" class="addthis_button_compact">&nbsp;共有</a><span class="addthis_separator">&nbsp;</span><a class="addthis_button_facebook" ></a><a class="addthis_button_twitter" ></a><a class="addthis_button_google_plusone" g:plusone:count="false" style="margin-top:1px;"></a><a class="addthis_button_linkedin" ></a><a class="addthis_button_tumblr" ></a><a class="addthis_button_stumbleupon" ></a><a class="addthis_button_reddit" ></a><a class="addthis_button_email" ></a></div>
+			<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid="></script><p></p>
+<table style="background:#fff; border:4px solid #198080; margin:0.10px; padding-top:12px;" width="100%">
+
+<tr>
+<th style="font-size:200%"> StarCraftⅡ：Legacy of the Void 日本語wikiへようこそ！
+</th></tr>
+<tr>
+<td style="font-size: 110%; padding-left:16px; padding-right:16px;">
+<p>このwikiは誰でも編集できます。編集するためにはアカウントを作ってください。<a href="/wiki/%E7%B7%A8%E9%9B%86%E8%80%85%E5%90%91%E3%81%91%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="編集者向けポータル">詳しくはこちら</a>
+</p>
+</td></tr></table>
+<table style="background:transparent;" width="100%">
+
+<tr>
+<td rowspan="4" style="background:#fff; border:2px solid #198080; margin:0.10px; padding:4px; vertical-align:top" width="50%">
+<table style="background:transparent;" width="100%">
+<tr>
+<th style="background:#a3d8d8; font-size:120%; padding:4px;"> StarCraft2ニュース
+</th></tr>
+<tr>
+<td>
+<h3><span class="mw-headline" id="WCS.E3.81.AB.E4.BB.A3.E3.82.8F.E3.82.8A.E3.80.81StarCraft2_ESL_Pro_Tour.E3.81.AE.E9.96.8B.E5.82.AC.E3.81.8C.E5.91.8A.E7.9F.A5.E3.81.95.E3.82.8C.E3.81.BE.E3.81.97.E3.81.9F.E3.80.82_.282020-01-09_00:26:15.29"><a href="/wiki/WCS%E3%81%AB%E4%BB%A3%E3%82%8F%E3%82%8A%E3%80%81StarCraft2_ESL_Pro_Tour%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%8C%E5%91%8A%E7%9F%A5%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82" title="WCSに代わり、StarCraft2 ESL Pro Tourの開催が告知されました。">WCSに代わり、StarCraft2 ESL Pro Tourの開催が告知されました。</a> (2020-01-09 00:26:15)</span></h3>
+<ul><li><a rel="nofollow" class="external free" href="https://wcs.starcraft2.com/en-us/news/23231587/The-Exciting-Future-of-StarCraft-II-Esports/">https://wcs.starcraft2.com/en-us/news/23231587/The-Exciting-Future-of-StarCraft-II-Esports/</a></li>
+<li><a rel="nofollow" class="external free" href="https://pro.eslgaming.com/tour/sc2/">https://pro.eslgaming.com/tour/sc2/</a></li>
+<li>WCSはその役割を終え、SC2のEスポーツシーンがESL Pro Tourに引き継がれることになりました。</li></ul>
+<h3><span class="mw-headline" id=".E3.83.91.E3.83.83.E3.83.814.11.3.E3.81.A7.E3.83.90.E3.83.A9.E3.83.B3.E3.82.B9.E3.82.A2.E3.83.83.E3.83.97.E3.83.87.E3.83.BC.E3.83.88.E3.81.8C.E9.81.A9.E7.94.A8.E3.81.95.E3.82.8C.E3.81.BE.E3.81.97.E3.81.9F.E3.80.82_.282019-12-19_11:31:00.29"><a href="/wiki/%E3%83%91%E3%83%83%E3%83%814.11.3%E3%81%A7%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%8C%E9%81%A9%E7%94%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82" title="パッチ4.11.3でバランスアップデートが適用されました。">パッチ4.11.3でバランスアップデートが適用されました。</a> (2019-12-19 11:31:00)</span></h3>
+<ul><li><a rel="nofollow" class="external free" href="https://starcraft2.com/en-us/news/23230078">https://starcraft2.com/en-us/news/23230078</a></li>
+<li>今年最後のバランスアップデートが適用されています！</li>
+<li>また、同時にコミュニティアップデートも公開されていますので併せてどうぞ。</li></ul>
+<h3><span class="mw-headline" id="2019-2020_WESG_StarCraft2.E6.97.A5.E6.9C.AC.E4.BA.88.E9.81.B8.E3.81.8C12.2F14.28.E5.9C.9F.29.2C15.28.E6.97.A5.29.E3.81.AB.E9.96.8B.E5.82.AC.E3.81.95.E3.82.8C.E3.81.BE.E3.81.99.EF.BC.81_.282019-12-11_20:27:29.29"><a href="/wiki/2019-2020_WESG_StarCraft2%E6%97%A5%E6%9C%AC%E4%BA%88%E9%81%B8%E3%81%8C12/14(%E5%9C%9F),15(%E6%97%A5)%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%EF%BC%81" title="2019-2020 WESG StarCraft2日本予選が12/14(土),15(日)に開催されます！">2019-2020 WESG StarCraft2日本予選が12/14(土),15(日)に開催されます！</a> (2019-12-11 20:27:29)</span></h3>
+<ul><li>組み合わせも決まり、いよいよ日本予選が開催されます！</li>
+<li>賞金総額1万ドル！もちろん配信もありますよ！</li></ul>
+<h3><span class="mw-headline" id="12.2F2.E3.81.8B.E3.82.89.E3.82.A2.E3.83.95.E3.83.AA.E3.82.ABTV.E4.B8.BB.E5.82.AC.E5.A4.A7.E4.BC.9A.E3.80.8CSC2_Blazing_Series_May.E3.80.8D.E3.81.8C.E9.96.8B.E5.B9.95.E3.81.97.E3.81.BE.E3.81.99.EF.BC.81_.282019-12-01_21:39:07.29"><a href="/wiki/12/2%E3%81%8B%E3%82%89%E3%82%A2%E3%83%95%E3%83%AA%E3%82%ABTV%E4%B8%BB%E5%82%AC%E5%A4%A7%E4%BC%9A%E3%80%8CSC2_Blazing_Series_May%E3%80%8D%E3%81%8C%E9%96%8B%E5%B9%95%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81" title="12/2からアフリカTV主催大会「SC2 Blazing Series May」が開幕します！">12/2からアフリカTV主催大会「SC2 Blazing Series May」が開幕します！</a> (2019-12-01 21:39:07)</span></h3>
+<ul><li>アフリカTV台湾主催の大会「SC2 Blazing Series May」が12/2に開幕します！</li>
+<li>Blazing Series:Realityの上位大会で、韓国選手4人も出場します。</li>
+<li>大会は公式日本語配信も行いますですので、お楽しみに！</li></ul>
+<h3><span class="mw-headline" id=".E8.B3.9E.E9.87.91.E7.B7.8F.E9.A1.8D10.2C000.24.E3.81.AEWESG_2019-2020.E6.97.A5.E6.9C.AC.E4.BA.88.E9.81.B8.E3.81.AE.E9.96.8B.E5.82.AC.E3.81.8C.E5.91.8A.E7.9F.A5.E3.81.95.E3.82.8C.E3.81.BE.E3.81.97.E3.81.9F.E3.80.82_.282019-11-29_21:16:56.29"><a href="/wiki/%E8%B3%9E%E9%87%91%E7%B7%8F%E9%A1%8D10,000$%E3%81%AEWESG_2019-2020%E6%97%A5%E6%9C%AC%E4%BA%88%E9%81%B8%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%8C%E5%91%8A%E7%9F%A5%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82" title="賞金総額10,000$のWESG 2019-2020日本予選の開催が告知されました。">賞金総額10,000$のWESG 2019-2020日本予選の開催が告知されました。</a> (2019-11-29 21:16:56)</span></h3>
+<ul><li><a rel="nofollow" class="external free" href="https://docs.google.com/forms/d/e/1FAIpQLSe5u1tSCjcgxjqovpCDpB3D189pjkCtD1FP4AFfnaOkMXSzyQ/viewform?vc=0&amp;c=0&amp;w=1">https://docs.google.com/forms/d/e/1FAIpQLSe5u1tSCjcgxjqovpCDpB3D189pjkCtD1FP4AFfnaOkMXSzyQ/viewform?vc=0&amp;c=0&amp;w=1</a></li>
+<li>賞金総額1万ドル！今年もWESG日本予選の開催が決定！既に参加登録も始まっています！</li></ul>
+<h3><span class="mw-headline" id=".E3.83.91.E3.83.83.E3.83.814.11.0.E3.81.A7.E5.A4.A7.E8.A6.8F.E6.A8.A1.E3.83.90.E3.83.A9.E3.83.B3.E3.82.B9.E3.82.A2.E3.83.83.E3.83.97.E3.83.87.E3.83.BC.E3.83.88.E3.81.8C.E9.81.A9.E7.94.A8.E3.81.95.E3.82.8C.E3.81.BE.E3.81.97.E3.81.9F.E3.80.82_.282019-11-28_00:53:35.29"><a href="/wiki/%E3%83%91%E3%83%83%E3%83%814.11.0%E3%81%A7%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%8C%E9%81%A9%E7%94%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82" title="パッチ4.11.0で大規模バランスアップデートが適用されました。">パッチ4.11.0で大規模バランスアップデートが適用されました。</a> (2019-11-28 00:53:35)</span></h3>
+<ul><li>パッチ4.11.0が適用。大規模バランスアップデートがついに適用されました</li>
+<li>さらに新シーズン開幕、新Co-opコマンダー「Arcturus Mengsk」実装、Co-opの新難易度「Brutal+」実装など盛りだくさんのパッチとなっています。</li>
+<li><a rel="nofollow" class="external free" href="https://news.blizzard.com/en-us/starcraft2/23227811/starcraft-ii-4-11-0-patch-notes">https://news.blizzard.com/en-us/starcraft2/23227811/starcraft-ii-4-11-0-patch-notes</a></li></ul>
+<h3><span class="mw-headline" id="19.2F10.2F03_.E5.A4.A7.E8.A6.8F.E6.A8.A1.E3.83.90.E3.83.A9.E3.83.B3.E3.82.B9.E5.A4.89.E6.9B.B4.E6.A1.88.E3.81.8C.E5.85.AC.E9.96.8B.E3.81.95.E3.82.8C.E3.81.BE.E3.81.97.E3.81.9F.E3.80.82.28.E6.9C.80.E7.B5.82.E6.9B.B4.E6.96.B0.EF.BC.9A11.2F15.29_.282019-11-16_13:33:17.29"><a href="/wiki/19/10/03_%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E5%A4%89%E6%9B%B4%E6%A1%88%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82(%E6%9C%80%E7%B5%82%E6%9B%B4%E6%96%B0%EF%BC%9A11/15)" title="19/10/03 大規模バランス変更案が公開されました。(最終更新：11/15)">19/10/03 大規模バランス変更案が公開されました。(最終更新：11/15)</a> (2019-11-16 13:33:17)</span></h3>
+<ul><li>心配しましたが、今年もBlizzcon後の大規模アップデートが行われます！</li>
+<li><a rel="nofollow" class="external free" href="https://starcraft2.com/en-us/news/23159844">https://starcraft2.com/en-us/news/23159844</a></li></ul>
+<h3><span class="mw-headline" id="19.2F11.2F14_.E5.A4.A7.E8.A6.8F.E6.A8.A1.E3.83.90.E3.83.A9.E3.83.B3.E3.82.B9.E5.A4.89.E6.9B.B4.E6.A1.88.E3.81.8C.E3.82.A2.E3.83.83.E3.83.97.E3.83.87.E3.83.BC.E3.83.88.E3.81.95.E3.82.8C.E3.81.BE.E3.81.97.E3.81.9F.E3.80.82_.282019-11-15_23:40:35.29"><a href="/wiki/19/11/14_%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E5%A4%89%E6%9B%B4%E6%A1%88%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82" title="19/11/14 大規模バランス変更案がアップデートされました。">19/11/14 大規模バランス変更案がアップデートされました。</a> (2019-11-15 23:40:35)</span></h3>
+<ul><li>今月末適用予定の大規模バランス変更案に追加のアップデートがあります。</li>
+<li>今回の変更が適用前最後の変更となります。</li>
+<li><a rel="nofollow" class="external free" href="https://starcraft2.com/en-us/news/23223600">https://starcraft2.com/en-us/news/23223600</a></li></ul>
+<p><br />
+</p><p><br />
+</p><p><br />
+</p><p><br />
+</p><p><br />
+</p>
+</td></tr></table>
+</td>
+<td colspan="1" style="background:#fff; border:2px solid #198080; margin:0.10px; padding:4px; vertical-align:top;" width="50%">
+<table style="background:transparent;" width="100%">
+<tr>
+<th style="background:#a3d8d8; font-size:120%; padding:4px;">Legacy Weekly Japan情報
+</th></tr>
+<tr>
+<td>
+<p><b><big>次の大会：2020/01/19(Sun) 21:00</big></b>
+</p>
+<ul><li>参加登録
+<ul><li><a rel="nofollow" class="external text" href="https://challonge.com/tournaments/signup/C5Y4dtqQUW">LWJ Open(ランク無制限の部)</a></li>
+<li>[今回はなし LWJ Prospect]</li>
+<li><b>今月の参加賞：長崎物語</b></li></ul></li>
+<li>ルールは<a href="/wiki/Legacy_Weekly_Japan%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB" title="Legacy Weekly Japanのルール">こちら</a>、過去の結果は<a href="/wiki/Legacy_Weekly_Japan%E3%81%AE%E7%B5%90%E6%9E%9C" title="Legacy Weekly Japanの結果">こちら</a></li></ul>
+<p><br />
+</p>
+</td></tr></table>
+</td>
+</tr>
+<tr>
+<td colspan="1" style="background:#fff; border:2px solid #198080; margin:0.10px; padding:4px; vertical-align:top;" width="100%">
+<table style="background:transparent;" width="100%">
+<tr>
+<th style="background:#a3d8d8; font-size:120%; padding:4px;">注目の記事
+</th></tr>
+<tr>
+<td>
+<ul><li> <a href="/wiki/WCS%E3%81%AB%E4%BB%A3%E3%82%8F%E3%82%8A%E3%80%81StarCraft2_ESL_Pro_Tour%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%8C%E5%91%8A%E7%9F%A5%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82" title="WCSに代わり、StarCraft2 ESL Pro Tourの開催が告知されました。">WCSに代わり、StarCraft2 ESL Pro Tourの開催が告知されました。</a></li>
+<li> <a href="/wiki/SpeedBanshee_Macro_Mech" title="SpeedBanshee Macro Mech">SpeedBanshee Macro Mech</a></li>
+<li> <a href="/wiki/Discord" title="Discord">Discord</a></li>
+<li> <a href="/wiki/3rax_Stim_Combat_%2B1Attack_Timing" title="3rax Stim Combat +1Attack Timing">3rax Stim Combat +1Attack Timing</a></li>
+<li> <a href="/wiki/%E5%81%B5%E5%AF%9F%E3%81%AE%E3%82%AC%E3%82%A4%E3%83%89" title="偵察のガイド">偵察のガイド</a></li>
+<li> <a href="/wiki/StarCraft2_Map_Editor" title="StarCraft2 Map Editor">StarCraft2 Map Editor</a></li>
+<li> <a href="/wiki/NOTAKON%27s_blog" title="NOTAKON's blog">NOTAKON's blog</a></li>
+<li> <a href="/wiki/LotV_1v1%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80%E3%81%9F%E3%82%81%E3%81%AEHotkey%E3%81%A8Control_Group%E3%82%AC%E3%82%A4%E3%83%89" title="LotV 1v1を楽しむためのHotkeyとControl Groupガイド">LotV 1v1を楽しむためのHotkeyとControl Groupガイド</a></li>
+<li> <a href="/wiki/%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E6%A7%8B%E6%88%90%E3%81%99%E3%82%8B%E8%A6%81%E7%B4%A0%E3%81%A8%E7%B7%B4%E7%BF%92%E6%96%B9%E6%B3%95%E3%81%A8%E5%A4%A7%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_by_PSiArc" title="スキルを構成する要素と練習方法と大会について by PSiArc">スキルを構成する要素と練習方法と大会について by PSiArc</a></li></ul>
+</td></tr></table>
+</td>
+</tr>
+<tr>
+<td colspan="1" style="background:#fff; border:2px solid #198080; margin:0.10px; padding:4px; vertical-align:top;" width="100%">
+<table style="background:transparent;" width="100%">
+<tr>
+<th style="background:#a3d8d8; font-size:120%; padding:4px;">最近更新・コメントされたページ
+</th></tr>
+<tr>
+<td>
+<ul><li> <a href="/wiki/Spore_Crawler" title="Spore Crawler">Spore Crawler</a>(2020-01-18 15:59:04)</li>
+<li> <a href="/wiki/Spine_Crawler" title="Spine Crawler">Spine Crawler</a>(2020-01-18 15:54:58)</li>
+<li> <a href="/wiki/Hellbat" title="Hellbat">Hellbat</a>(2020-01-18 01:03:22)</li>
+<li> <a href="/wiki/Hellion" title="Hellion">Hellion</a>(2020-01-18 00:59:42)</li>
+<li> <a href="/wiki/Ghost" title="Ghost">Ghost</a>(2020-01-18 00:28:19)</li>
+<li> <a href="/wiki/Reaper" title="Reaper">Reaper</a>(2020-01-18 00:15:54)</li>
+<li> <a href="/wiki/Marauder" title="Marauder">Marauder</a>(2020-01-18 00:04:56)</li>
+<li> <a href="/wiki/SCV" title="SCV">SCV</a>(2020-01-17 23:50:26)</li>
+<li> <a href="/wiki/Nexus" title="Nexus">Nexus</a>(2020-01-16 09:20:17)</li>
+<li> <a href="/wiki/Probe" title="Probe">Probe</a>(2020-01-16 09:15:10)</li>
+<li> <a href="/wiki/Warp_Prism" title="Warp Prism">Warp Prism</a>(2020-01-15 12:51:31)</li>
+<li> <a href="/wiki/Pylon" title="Pylon">Pylon</a>(2020-01-13 17:54:35)</li>
+<li> <a href="/wiki/Warp_Gate" title="Warp Gate">Warp Gate</a>(2020-01-13 17:43:31)</li>
+<li> <a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Power_Field4-2.png" title="ファイル:Power Field4-2.png">ファイル:Power Field4-2.png</a>(2020-01-13 15:16:04)</li>
+<li> <a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Power_Field3-3.png" title="ファイル:Power Field3-3.png">ファイル:Power Field3-3.png</a>(2020-01-13 15:10:57)</li>
+<li> <a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Power_Field3-2.png" title="ファイル:Power Field3-2.png">ファイル:Power Field3-2.png</a>(2020-01-13 13:22:40)</li>
+<li> <a href="/wiki/Legacy_Weekly_Japan%E3%81%AE%E7%B5%90%E6%9E%9C" title="Legacy Weekly Japanの結果">Legacy Weekly Japanの結果</a>(2020-01-12 23:50:16)</li>
+<li> <a href="/wiki/%E5%A4%A7%E4%BC%9A%E8%A6%B3%E6%88%A6%E3%82%AC%E3%82%A4%E3%83%89" title="大会観戦ガイド">大会観戦ガイド</a>(2020-01-09 01:35:07)</li></ul>
+</td></tr></table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" style="background:#fff; border:2px solid #198080; margin:0.10px; padding:4px; vertical-align:top">
+<table style="background:transparent;" width="100%">
+<tr>
+<th style="background:#a3d8d8; font-size:120%; padding:4px;"> ポータル
+</th></tr>
+<tr>
+<td>
+<ul><li><a href="/wiki/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="初心者向けポータル">初心者向け情報</a></li>
+<li><a href="/wiki/%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88" title="ユニット">ユニットデータ</a></li>
+<li><a href="/wiki/%E3%83%88%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E6%83%85%E5%A0%B1" title="トーナメント情報">トーナメント情報</a></li>
+<li><a href="/mediawiki/index.php?title=%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E6%83%85%E5%A0%B1&amp;action=edit&amp;redlink=1" class="new" title="ストーリー情報 (存在しないページ)">ストーリー情報</a>(工事中)</li>
+<li><a href="/wiki/%E3%83%9E%E3%83%83%E3%83%97" title="マップ">マップ</a></li>
+<li><a href="/wiki/Terran%E3%81%AE%E6%88%A6%E7%95%A5%E3%83%BB%E3%83%93%E3%83%AB%E3%83%89%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC" title="Terranの戦略・ビルドオーダー">Terranの戦略・ビルドオーダー</a></li>
+<li><a href="/wiki/Protoss%E3%81%AE%E6%88%A6%E7%95%A5%E3%83%BB%E3%83%93%E3%83%AB%E3%83%89%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC" title="Protossの戦略・ビルドオーダー">Protossの戦略・ビルドオーダー</a></li>
+<li><a href="/wiki/Zerg%E3%81%AE%E6%88%A6%E7%95%A5%E3%83%BB%E3%83%93%E3%83%AB%E3%83%89%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC" title="Zergの戦略・ビルドオーダー">Zergの戦略・ビルドオーダー</a></li>
+<li><a href="/wiki/%E7%B7%A8%E9%9B%86%E8%80%85%E5%90%91%E3%81%91%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="編集者向けポータル">編集者向けポータル</a></li></ul>
+</td></tr></table>
+</td>
+</tr>
+
+</table>
+<p><iframe src="https://discordapp.com/widget?id=165883432147091467&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.083 seconds
+Real time usage: 0.456 seconds
+Preprocessor visited node count: 93/1000000
+Preprocessor generated node count: 737/1000000
+Post‐expand include size: 1456/2097152 bytes
+Template argument size: 99/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+</div>									<div class="printfooter">
+						「<a dir="ltr" href="http://www.sc2jpwiki.com/mediawiki/index.php?title=メインページ&amp;oldid=12206">http://www.sc2jpwiki.com/mediawiki/index.php?title=メインページ&amp;oldid=12206</a>」から取得					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA:SC2News" title="カテゴリ:SC2News">SC2News</a></li><li><a href="/wiki/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA:FeaturedArticle" title="カテゴリ:FeaturedArticle">FeaturedArticle</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/mediawiki/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;type=signup">アカウント作成</a></li><li id="pt-login"><a href="/mediawiki/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%88%E3%83%BC%E3%82%AF:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="本文ページについての議論 [t]" accesskey="t">議論</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>変種</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" >閲覧</a></span></li>
+															<li id="ca-viewsource"><span><a href="/mediawiki/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;action=edit"  title="このページは保護されています。&#10;ページのソースを閲覧できます。 [e]" accesskey="e">ソースを表示</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/mediawiki/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/mediawiki/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="検索" title="StarCraft II: Legacy of the Void 日本語Wiki内を検索する [f]" accesskey="f" id="searchInput" /><input type="hidden" value="特別:検索" name="title" /><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(/mediawiki/resources/assets/Disruptor.last.png);" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-.E3.83.8A.E3.83.93.E3.82.B2.E3.83.BC.E3.82.B7.E3.83.A7.E3.83.B3' aria-labelledby='p-.E3.83.8A.E3.83.93.E3.82.B2.E3.83.BC.E3.82.B7.E3.83.A7.E3.83.B3-label'>
+			<h3 id='p-.E3.83.8A.E3.83.93.E3.82.B2.E3.83.BC.E3.82.B7.E3.83.A7.E3.83.B3-label'>ナビゲーション</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li>
+													<li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li>
+													<li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li>
+													<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="情報を得る場所">ヘルプ</a></li>
+													<li id="n-.E7.B7.B4.E7.BF.92.E3.83.9A.E3.83.BC.E3.82.B8"><a href="/wiki/%E7%B7%A8%E9%9B%86%E3%82%92%E7%B7%B4%E7%BF%92%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8">練習ページ</a></li>
+													<li id="n-Discord-SC2JP"><a href="/wiki/Discord">Discord SC2JP</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-.E3.83.87.E3.83.BC.E3.82.BF' aria-labelledby='p-.E3.83.87.E3.83.BC.E3.82.BF-label'>
+			<h3 id='p-.E3.83.87.E3.83.BC.E3.82.BF-label'>データ</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-.E3.83.A6.E3.83.8B.E3.83.83.E3.83.88.E3.81.A8.E5.BB.BA.E7.89.A9"><a href="/wiki/%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88">ユニットと建物</a></li>
+													<li id="n-.E3.83.91.E3.83.83.E3.83.81"><a href="/wiki/%E3%83%91%E3%83%83%E3%83%81">パッチ</a></li>
+													<li id="n-.E3.83.9E.E3.83.83.E3.83.97"><a href="/wiki/%E3%83%9E%E3%83%83%E3%83%97">マップ</a></li>
+													<li id="n-CO-OP"><a href="/wiki/CO-OP%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3">CO-OP</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-.E5.88.9D.E5.BF.83.E8.80.85.E5.90.91.E3.81.91.E6.83.85.E5.A0.B1' aria-labelledby='p-.E5.88.9D.E5.BF.83.E8.80.85.E5.90.91.E3.81.91.E6.83.85.E5.A0.B1-label'>
+			<h3 id='p-.E5.88.9D.E5.BF.83.E8.80.85.E5.90.91.E3.81.91.E6.83.85.E5.A0.B1-label'>初心者向け情報</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB.E3.83.BB.E5.B0.8E.E5.85.A5"><a href="/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%83%BB%E5%B0%8E%E5%85%A5%E3%82%AC%E3%82%A4%E3%83%89">インストール・導入</a></li>
+													<li id="n-.E5.88.9D.E5.BF.83.E8.80.85.E5.90.91.E3.81.91FAQ"><a href="/wiki/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91FAQ">初心者向けFAQ</a></li>
+													<li id="n-.E5.88.9D.E5.BF.83.E8.80.85.E5.90.91.E3.81.91.E6.93.8D.E4.BD.9CTIPS"><a href="/wiki/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E6%93%8D%E4%BD%9CTIPS">初心者向け操作TIPS</a></li>
+													<li id="n-.E5.B0.8F.E3.83.8D.E3.82.BF.E9.9B.86"><a href="/wiki/%E4%BD%BF%E3%81%88%E3%82%8B%E5%B0%8F%E3%83%8D%E3%82%BF%E9%9B%86">小ネタ集</a></li>
+													<li id="n-.E5.90.84.E7.A8.AE.E6.97.8F.E3.81.AE.E8.A8.AD.E5.AE.9A.E3.81.A8.E7.89.B9.E5.BE.B4"><a href="/wiki/%E5%90%84%E7%A8%AE%E6%97%8F%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%A8%E7%89%B9%E5%BE%B4%E3%81%AE%E7%B4%B9%E4%BB%8B">各種族の設定と特徴</a></li>
+													<li id="n-.E7.94.A8.E8.AA.9E.E9.9B.86"><a href="/wiki/%E7%94%A8%E8%AA%9E%E9%9B%86">用語集</a></li>
+													<li id="n-.E5.A4.A7.E4.BC.9A.E8.A6.B3.E6.88.A6.E3.82.AC.E3.82.A4.E3.83.89"><a href="/wiki/%E5%A4%A7%E4%BC%9A%E8%A6%B3%E6%88%A6%E3%82%AC%E3%82%A4%E3%83%89">大会観戦ガイド</a></li>
+													<li id="n-.E3.83.9E.E3.83.83.E3.83.97.E3.82.AA.E3.83.96.E3.82.B8.E3.82.A7.E3.82.AF.E3.83.88"><a href="/wiki/%E3%83%9E%E3%83%83%E3%83%97%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%B4%B9%E4%BB%8B">マップオブジェクト</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-.E6.88.A6.E7.95.A5.E3.83.BB.E3.83.93.E3.83.AB.E3.83.89.E3.82.AA.E3.83.BC.E3.83.80.E3.83.BC' aria-labelledby='p-.E6.88.A6.E7.95.A5.E3.83.BB.E3.83.93.E3.83.AB.E3.83.89.E3.82.AA.E3.83.BC.E3.83.80.E3.83.BC-label'>
+			<h3 id='p-.E6.88.A6.E7.95.A5.E3.83.BB.E3.83.93.E3.83.AB.E3.83.89.E3.82.AA.E3.83.BC.E3.83.80.E3.83.BC-label'>戦略・ビルドオーダー</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-.E6.88.A6.E7.95.A5.E4.B8.80.E8.88.AC"><a href="/wiki/%E6%88%A6%E7%95%A5%E4%B8%80%E8%88%AC">戦略一般</a></li>
+													<li id="n-.E3.83.AA.E3.83.97.E3.83.AC.E3.82.A4"><a href="/wiki/%E3%83%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%91%E3%83%83%E3%82%AF%E7%BD%AE%E3%81%8D%E5%A0%B4">リプレイ</a></li>
+													<li id="n-Terran"><a href="/wiki/Terran%E3%81%AE%E6%88%A6%E7%95%A5%E3%83%BB%E3%83%93%E3%83%AB%E3%83%89%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC">Terran</a></li>
+													<li id="n-Protoss"><a href="/wiki/Protoss%E3%81%AE%E6%88%A6%E7%95%A5%E3%83%BB%E3%83%93%E3%83%AB%E3%83%89%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC">Protoss</a></li>
+													<li id="n-Zerg"><a href="/wiki/Zerg%E3%81%AE%E6%88%A6%E7%95%A5%E3%83%BB%E3%83%93%E3%83%AB%E3%83%89%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC">Zerg</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-.E3.81.9D.E3.81.AE.E4.BB.96' aria-labelledby='p-.E3.81.9D.E3.81.AE.E4.BB.96-label'>
+			<h3 id='p-.E3.81.9D.E3.81.AE.E4.BB.96-label'>その他</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-.E5.B0.8F.E3.83.8D.E3.82.BF.E9.9B.86"><a href="/wiki/%E4%BD%BF%E3%81%88%E3%82%8B%E5%B0%8F%E3%83%8D%E3%82%BF%E9%9B%86">小ネタ集</a></li>
+													<li id="n-.E5.A4.A7.E4.BC.9A.E8.A6.B3.E6.88.A6.E3.82.AC.E3.82.A4.E3.83.89"><a href="/wiki/%E5%A4%A7%E4%BC%9A%E8%A6%B3%E6%88%A6%E3%82%AC%E3%82%A4%E3%83%89">大会観戦ガイド</a></li>
+													<li id="n-.E3.82.AA.E3.83.AA.E3.82.B8.E3.83.8A.E3.83.AB.E3.83.9E.E3.83.83.E3.83.97.E3.81.AE.E4.BD.9C.E3.82.8A.E6.96.B9"><a href="/wiki/StarCraft2_Map_Editor">オリジナルマップの作り方</a></li>
+													<li id="n-Blog"><a href="/wiki/Blog">Blog</a></li>
+													<li id="n-TeamSpeak3-Server"><a href="/wiki/TeamSpeak3_Server">TeamSpeak3 Server</a></li>
+													<li id="n-.E7.AE.A1.E7.90.86.E4.BA.BA.E9.80.A3.E7.B5.A1.E5.85.88"><a href="/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Lapack">管理人連絡先</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Legacy_Weekly_Japan' aria-labelledby='p-Legacy_Weekly_Japan-label'>
+			<h3 id='p-Legacy_Weekly_Japan-label'>Legacy Weekly Japan</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-.E3.83.88.E3.83.83.E3.83.97.E3.83.BB.E5.8F.82.E5.8A.A0.E6.A1.88.E5.86.85"><a href="/wiki/Legacy_Weekly_Japan">トップ・参加案内</a></li>
+													<li id="n-.E3.83.AB.E3.83.BC.E3.83.AB"><a href="/wiki/Legacy_Weekly_Japan%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB">ルール</a></li>
+													<li id="n-.E7.B5.90.E6.9E.9C.E3.81.BE.E3.81.A8.E3.82.81"><a href="/wiki/Leagcy_Weekly_Japan%E3%81%AE%E7%B5%90%E6%9E%9C">結果まとめ</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-.E3.83.AA.E3.83.B3.E3.82.AF.E9.9B.86' aria-labelledby='p-.E3.83.AA.E3.83.B3.E3.82.AF.E9.9B.86-label'>
+			<h3 id='p-.E3.83.AA.E3.83.B3.E3.82.AF.E9.9B.86-label'>リンク集</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-Teamliquid"><a href="http://www.teamliquid.net/" rel="nofollow">Teamliquid</a></li>
+													<li id="n-Liquipedia"><a href="http://wiki.teamliquid.net/starcraft2/Main_Page" rel="nofollow">Liquipedia</a></li>
+													<li id="n-SJC"><a href="http://starcraft2.jpcommunity.com/sc2/" rel="nofollow">SJC</a></li>
+													<li id="n-SpawningTool"><a href="http://lotv.spawningtool.com/" rel="nofollow">SpawningTool</a></li>
+													<li id="n-.E3.81.9D.E3.81.AE.E4.BB.96.E3.83.AA.E3.83.B3.E3.82.AF.E9.9B.86"><a href="/wiki/%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86">その他リンク集</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-.E3.82.B9.E3.83.9D.E3.83.B3.E3.82.B5.E3.83.BCWeb.E3.82.B5.E3.82.A4.E3.83.88' aria-labelledby='p-.E3.82.B9.E3.83.9D.E3.83.B3.E3.82.B5.E3.83.BCWeb.E3.82.B5.E3.82.A4.E3.83.88-label'>
+			<h3 id='p-.E3.82.B9.E3.83.9D.E3.83.B3.E3.82.B5.E3.83.BCWeb.E3.82.B5.E3.82.A4.E3.83.88-label'>スポンサーWebサイト</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-Pechi2-Ware"><a href="http://pechi2ware.blog.fc2.com/" rel="nofollow">Pechi2 Ware</a></li>
+													<li id="n-GameStar"><a href="http://www.gamestar.tokyo/" rel="nofollow">GameStar</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-.E9.81.8E.E5.8E.BB.E3.81.AE.E5.A4.A7.E4.BC.9A.E5.A0.B1.E5.91.8A' aria-labelledby='p-.E9.81.8E.E5.8E.BB.E3.81.AE.E5.A4.A7.E4.BC.9A.E5.A0.B1.E5.91.8A-label'>
+			<h3 id='p-.E9.81.8E.E5.8E.BB.E3.81.AE.E5.A4.A7.E4.BC.9A.E5.A0.B1.E5.91.8A-label'>過去の大会報告</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-Pechi2-Starleague"><a href="http://www.sc2jpwiki.com/pechi2result.html" rel="nofollow">Pechi2 Starleague</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-.E7.AE.A1.E7.90.86.E7.94.A8' aria-labelledby='p-.E7.AE.A1.E7.90.86.E7.94.A8-label'>
+			<h3 id='p-.E7.AE.A1.E7.90.86.E7.94.A8-label'>管理用</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-.E3.83.90.E3.83.BC.E3.82.B8.E3.83.A7.E3.83.B3.E6.83.85.E5.A0.B1"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E6%83%85%E5%A0%B1">バージョン情報</a></li>
+													<li id="n-.E3.83.9A.E3.83.BC.E3.82.B8.E4.B8.80.E8.A6.A7"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7">ページ一覧</a></li>
+													<li id="n-.E3.82.B5.E3.82.A4.E3.83.89.E3.83.90.E3.83.BC"><a href="/wiki/MediaWiki:Sidebar">サイドバー</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li>
+													<li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li>
+													<li id="t-print"><a href="/mediawiki/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;printable=yes" rel="alternate" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>
+													<li id="t-permalink"><a href="/mediawiki/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;oldid=12206" title="このページのこの版への固定リンク">この版への固定リンク</a></li>
+													<li id="t-info"><a href="/mediawiki/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&amp;action=info">ページ情報</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-addthis' aria-labelledby='p-addthis-label'>
+			<h3 id='p-addthis-label'>共有</h3>
+
+			<div class="body">
+									<!-- AddThis Button BEGIN -->
+			<div class="addthis_toolbox addthis_default_style" id="addthissidebar"><a class="addthis_button_compact" ></a><a class="addthis_button_facebook" ></a><a class="addthis_button_twitter" ></a><a class="addthis_button_google_plusone" g:plusone:count="false" style="margin-top:1px;"></a><a class="addthis_button_email" ></a></div>
+			<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid="></script>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> このページの最終更新日時は 2019年7月1日 (月) 01:35 です。</li>
+											<li id="footer-info-viewcount">このページは 452,956 回アクセスされました。</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/sc2jpwiki:%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC" title="sc2jpwiki:プライバシー・ポリシー">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/sc2jpwiki:StarCraft_II:_Legacy_of_the_Void_%E6%97%A5%E6%9C%AC%E8%AA%9EWiki%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="sc2jpwiki:StarCraft II: Legacy of the Void 日本語Wikiについて">StarCraft II: Legacy of the Void 日本語Wikiについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/sc2jpwiki:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="sc2jpwiki:免責事項">免責事項</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="/mediawiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"http://www.sc2jpwiki.com/mediawiki/load.php?debug=false\u0026amp;lang=ja\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":520});
+}</script>
+	</body>
+</html>
+	
