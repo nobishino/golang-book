@@ -1,5 +1,4 @@
-// Lissajous generates GIF animations of random Lissajous figures.
-package main
+package sample
 
 import (
 	"image"
@@ -18,7 +17,7 @@ const (
 	blackIndex = 1 // next color in palette
 )
 
-func main() {
+func Sample01_05() {
 	lissajous(os.Stdout)
 }
 
