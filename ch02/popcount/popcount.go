@@ -8,6 +8,13 @@ func init() {
 	}
 }
 
+func PopCount2_5(x uint64) (result int) {
+	for ; x > 0; x = x & (x - 1) {
+		result++
+	}
+	return
+}
+
 func PopCount2_4(x uint64) int {
 	var answer uint64
 	for i := 0; i < 64; i++ {
