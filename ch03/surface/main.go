@@ -57,6 +57,9 @@ func corner(i, j int) (sx, sy float64, finite bool) {
 }
 
 func f(x, y float64) float64 {
-	r := math.Hypot(x, y)
-	return math.Sin(r) / r
+	// r := math.Hypot(x, y)
+	// return math.Sin(r) / r
+	omega := 0.3
+	r := 0.5
+	return r * math.Pow(math.Sin(omega*x)*math.Sin(omega*y), 2.0)
 }
