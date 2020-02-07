@@ -23,10 +23,22 @@ func main() {
 		width, height)
 	for i := 0; i < cells; i++ {
 		for j := 0; j < cells; j++ {
-			ax, ay := corner(i+1, j)
-			bx, by := corner(i, j)
-			cx, cy := corner(i, j+1)
-			dx, dy := corner(i+1, j+1)
+			ax, ay, finite := corner(i+1, j)
+			if !finite {
+				continue
+			}
+			bx, by, finite := corner(i, j)
+			if !finite {
+				continue
+			}
+			cx, cy, finite := corner(i, j+1)
+			if !finite {
+				continue
+			}
+			dx, dy, finite := corner(i+1, j+1)
+			if !finite {
+				continue
+			}
 			fmt.Printf("<polygon points='%g,%g %g,%g %g,%g, %g,%g'/>\n",
 				ax, ay, bx, by, cx, cy, dx, dy)
 		}
@@ -34,12 +46,13 @@ func main() {
 	fmt.Printf("</svg>")
 }
 
-func corner(i, j int) (sx, sy float64) {
+func corner(i, j int) (sx, sy float64, finite bool) {
 	x := xyrange * (float64(i)/cells - 0.5)
 	y := xyrange * (float64(j)/cells - 0.5)
 	z := f(x, y)
 	sx = width/2 + (x-y)*cos30*xyscale
 	sy = width/2 + (x+y)*sin30*xyscale - z*zscale
+	finite = !math.IsNaN(sx) && !math.IsInf(sx, 0) && !math.IsNaN(sy) && !math.IsInf(sy, 0)
 	return
 }
 
