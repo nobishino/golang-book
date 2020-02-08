@@ -1,11 +1,8 @@
 package main
 
-import (
-	"os"
-
-	"github.com/nobishino/golang-book/ch03/svg"
-)
+import "github.com/nobishino/golang-book/ch03/web"
 
 func main() {
-	svg.Write(os.Stdout)
+	// svg.Write(os.Stdout)
+	web.Listen(8080)
 }
