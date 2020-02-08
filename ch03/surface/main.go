@@ -21,6 +21,7 @@ func main() {
 		"style='stroke: grey; fill: white; stroke-width: 0.7' "+
 		"width='%d' height='%d'>",
 		width, height)
+	maxZ, minZ := getMaxMinZ()
 	for i := 0; i < cells; i++ {
 		for j := 0; j < cells; j++ {
 			ax, ay, finite := corner(i+1, j)
@@ -39,11 +40,37 @@ func main() {
 			if !finite {
 				continue
 			}
-			fmt.Printf("<polygon points='%g,%g %g,%g %g,%g, %g,%g'/>\n",
-				ax, ay, bx, by, cx, cy, dx, dy)
+			fmt.Printf("<polygon points='%g,%g %g,%g %g,%g, %g,%g' %s/>\n",
+				ax, ay, bx, by, cx, cy, dx, dy, getFillColor(i, j, maxZ, minZ))
 		}
 	}
 	fmt.Printf("</svg>")
+}
+
+func getHeight(i, j int) float64 {
+	x := xyrange * (float64(i)/cells - 0.5)
+	y := xyrange * (float64(j)/cells - 0.5)
+	return f(x, y)
+}
+
+func getMaxMinZ() (max, min float64) {
+	max, min = -math.MaxFloat64, math.MaxFloat64
+	for i := 0; i < cells; i++ {
+		for j := 0; j < cells; j++ {
+			z := getHeight(i, j)
+			if math.IsInf(z, 0) || math.IsNaN(z) {
+				continue
+			}
+			max = math.Max(max, z)
+			min = math.Min(min, z)
+		}
+	}
+	return
+}
+
+func getFillColor(i, j int, maxZ, minZ float64) string {
+	relativeZ := byte(255 * (getHeight(i, j) - minZ) / (maxZ - minZ))
+	return fmt.Sprintf("style=\"fill:#%02x00%02x\"", relativeZ, byte(255)-relativeZ)
 }
 
 func corner(i, j int) (sx, sy float64, finite bool) {
@@ -57,12 +84,18 @@ func corner(i, j int) (sx, sy float64, finite bool) {
 }
 
 func f(x, y float64) float64 {
-	// r := math.Hypot(x, y)
-	// return math.Sin(r) / r
-	// omega := 0.3
-	// r := 0.5
-	// return r * math.Pow(math.Sin(omega*x)*math.Sin(omega*y), 2.0)
-	return mogul(x, y)
+	return sinr(x, y)
+}
+
+func sinr(x, y float64) float64 {
+	r := math.Hypot(x, y)
+	return math.Sin(r) / r
+}
+
+func eggbox(x, y float64) float64 {
+	omega := 0.3
+	r := 0.5
+	return r * math.Pow(math.Sin(omega*x)*math.Sin(omega*y), 2.0)
 }
 
 func saddle(x, y float64) float64 {
