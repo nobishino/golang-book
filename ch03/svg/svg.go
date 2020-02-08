@@ -17,6 +17,80 @@ const (
 
 var sin30, cos30 = math.Sin(angle), math.Cos(angle)
 
+type Setting struct {
+	Height int
+	Width  int
+	Rgb    RGB
+}
+
+type RGB struct {
+	Red    int
+	Green  int
+	Blue   int
+	Change bool
+}
+
+func (s Setting) getSize() (w, h int) {
+	if s.Width != 0 {
+		w = s.Width
+	} else {
+		w = width
+	}
+	if s.Height != 0 {
+		h = s.Height
+	} else {
+		h = height
+	}
+	return
+}
+
+func (s Setting) getColor() (rgb string, change bool) {
+	rgbString := fmt.Sprintf("style=\"fill:#%02x%02x%02x\"", byte(s.Rgb.Red), byte(s.Rgb.Green), byte(s.Rgb.Blue))
+	return rgbString, s.Rgb.Change
+}
+
+func WriteWithSetting(w io.Writer, setting Setting) {
+	width, height := setting.getSize()
+	rgb, change := setting.getColor()
+	startTag := fmt.Sprintf("<svg xmlns='http://www.w3.org/2000/svg' "+
+		"style='stroke: grey; fill: white; stroke-width: 0.7' "+
+		"width='%d' height='%d'>",
+		width, height)
+	io.WriteString(w, startTag)
+	maxZ, minZ := getMaxMinZ()
+	for i := 0; i < cells; i++ {
+		for j := 0; j < cells; j++ {
+			ax, ay, finite := corner(i+1, j)
+			if !finite {
+				continue
+			}
+			bx, by, finite := corner(i, j)
+			if !finite {
+				continue
+			}
+			cx, cy, finite := corner(i, j+1)
+			if !finite {
+				continue
+			}
+			dx, dy, finite := corner(i+1, j+1)
+			if !finite {
+				continue
+			}
+			var colorProp string
+			if change {
+				colorProp = getFillColor(i, j, maxZ, minZ)
+			} else {
+				colorProp = rgb
+			}
+			polygonTag := fmt.Sprintf("<polygon points='%g,%g %g,%g %g,%g, %g,%g' %s/>\n",
+				ax, ay, bx, by, cx, cy, dx, dy, colorProp)
+			io.WriteString(w, polygonTag)
+		}
+	}
+	endTag := fmt.Sprintf("</svg>")
+	io.WriteString(w, endTag)
+}
+
 func Write(w io.Writer) {
 	startTag := fmt.Sprintf("<svg xmlns='http://www.w3.org/2000/svg' "+
 		"style='stroke: grey; fill: white; stroke-width: 0.7' "+
